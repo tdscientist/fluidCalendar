@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="calendar_selected_date_blue">#266CD2</color>
+    <color name="calendar_selected_date_green">#4FC94C</color>
+    <color name="app_black">#000000</color>
+    <color name="month_orange">#EF7E20</color>
+    <color name="app_light_blue">#6c94befd</color>
+    <color name="app_arrow_grey">#8B8B8B</color>
+    <color name="app_week_title_grey">#626262</color>
+</resources>

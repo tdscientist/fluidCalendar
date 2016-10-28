@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="@android:color/white"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:padding="5dp">
+
+    <ImageView
+        android:id="@+id/left_arrow"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/selector_action_bar_controls"
+        android:padding="10dp"
+        android:src="@drawable/ic_action_image_navigate_before"
+        android:tint="@color/app_arrow_grey" />
+
+    <TextView
+        android:id="@+id/month_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:padding="5dp"
+        android:textAllCaps="true"
+        android:textColor="@color/month_orange"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/right_arrow"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/selector_action_bar_controls"
+        android:padding="10dp"
+        android:src="@drawable/ic_action_image_navigate_next"
+        android:tint="@color/app_arrow_grey" />
+</LinearLayout>

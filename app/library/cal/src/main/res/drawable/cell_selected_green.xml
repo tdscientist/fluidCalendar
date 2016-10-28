@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#ca747474" />
+            <size
+                android:width="48dp"
+                android:height="48dp" />
+        </shape>
+    </item>
+
+    <item
+        android:bottom="1dp"
+        android:left="0.5dp"
+        android:right="0.5dp"
+        android:top="0dp">
+        <shape android:shape="oval">
+            <solid android:color="@color/calendar_selected_date_green" />
+        </shape>
+    </item>
+</layer-list>
