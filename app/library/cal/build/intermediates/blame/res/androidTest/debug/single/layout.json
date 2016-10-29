@@ -28,12 +28,12 @@
         "source": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/notification_template_part_time.xml"
     },
     {
-        "merged": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/res/merged/androidTest/debug/layout/abc_select_dialog_material.xml",
-        "source": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_select_dialog_material.xml"
-    },
-    {
         "merged": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_icon.xml",
         "source": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/res/merged/androidTest/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/layout/abc_select_dialog_material.xml"
     },
     {
         "merged": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/res/merged/androidTest/debug/layout/abc_alert_dialog_button_bar_material.xml",

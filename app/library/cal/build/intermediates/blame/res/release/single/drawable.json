@@ -132,11 +132,11 @@
         "source": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/src/main/res/drawable/attachment.png"
     },
     {
-        "merged": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_textfield_search_material.xml"
-    },
-    {
         "merged": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/res/merged/release/drawable/selector_action_bar_controls.xml",
         "source": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/src/main/res/drawable/selector_action_bar_controls.xml"
+    },
+    {
+        "merged": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_textfield_search_material.xml"
     }
 ]

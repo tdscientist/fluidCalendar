@@ -19,6 +19,7 @@ public final class R {
         public static int abc_slide_in_top=0x7f040007;
         public static int abc_slide_out_bottom=0x7f040008;
         public static int abc_slide_out_top=0x7f040009;
+        public static int date_cell_zoomin=0x7f04000a;
     }
     public static final class attr {
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"

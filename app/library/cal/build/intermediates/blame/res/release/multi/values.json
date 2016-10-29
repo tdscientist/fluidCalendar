@@ -2287,20 +2287,27 @@
                     "startLine": 225,
                     "startColumn": 4,
                     "startOffset": 31025,
-                    "endColumn": 54,
-                    "endOffset": 31075
+                    "endColumn": 53,
+                    "endOffset": 31074
                 },
                 "from": {
-                    "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/src/main/res/values/strings.xml"
+                    "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 53,
+                        "endOffset": 65
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 226,
                     "startColumn": 4,
-                    "startOffset": 31080,
+                    "startOffset": 31079,
                     "endColumn": 70,
-                    "endOffset": 31146
+                    "endOffset": 31145
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2310,9 +2317,9 @@
                 "to": {
                     "startLine": 227,
                     "startColumn": 4,
-                    "startOffset": 31151,
+                    "startOffset": 31150,
                     "endColumn": 77,
-                    "endOffset": 31224
+                    "endOffset": 31223
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2322,9 +2329,9 @@
                 "to": {
                     "startLine": 228,
                     "startColumn": 4,
-                    "startOffset": 31229,
+                    "startOffset": 31228,
                     "endColumn": 89,
-                    "endOffset": 31314
+                    "endOffset": 31313
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2334,9 +2341,9 @@
                 "to": {
                     "startLine": 229,
                     "startColumn": 4,
-                    "startOffset": 31319,
+                    "startOffset": 31318,
                     "endColumn": 87,
-                    "endOffset": 31402
+                    "endOffset": 31401
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2346,9 +2353,9 @@
                 "to": {
                     "startLine": 230,
                     "startColumn": 4,
-                    "startOffset": 31407,
+                    "startOffset": 31406,
                     "endColumn": 95,
-                    "endOffset": 31498
+                    "endOffset": 31497
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2358,10 +2365,10 @@
                 "to": {
                     "startLine": 231,
                     "startColumn": 4,
-                    "startOffset": 31503,
+                    "startOffset": 31502,
                     "endLine": 237,
                     "endColumn": 12,
-                    "endOffset": 31999
+                    "endOffset": 31998
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2371,9 +2378,9 @@
                 "to": {
                     "startLine": 238,
                     "startColumn": 4,
-                    "startOffset": 32004,
+                    "startOffset": 32003,
                     "endColumn": 88,
-                    "endOffset": 32088
+                    "endOffset": 32087
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2383,10 +2390,10 @@
                 "to": {
                     "startLine": 239,
                     "startColumn": 4,
-                    "startOffset": 32093,
+                    "startOffset": 32092,
                     "endLine": 242,
                     "endColumn": 12,
-                    "endOffset": 32335
+                    "endOffset": 32334
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2396,10 +2403,10 @@
                 "to": {
                     "startLine": 243,
                     "startColumn": 4,
-                    "startOffset": 32340,
+                    "startOffset": 32339,
                     "endLine": 246,
                     "endColumn": 12,
-                    "endOffset": 32616
+                    "endOffset": 32615
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2409,10 +2416,10 @@
                 "to": {
                     "startLine": 247,
                     "startColumn": 4,
-                    "startOffset": 32621,
+                    "startOffset": 32620,
                     "endLine": 251,
                     "endColumn": 12,
-                    "endOffset": 32901
+                    "endOffset": 32900
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2422,10 +2429,10 @@
                 "to": {
                     "startLine": 252,
                     "startColumn": 4,
-                    "startOffset": 32906,
+                    "startOffset": 32905,
                     "endLine": 257,
                     "endColumn": 12,
-                    "endOffset": 33294
+                    "endOffset": 33293
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2435,10 +2442,10 @@
                 "to": {
                     "startLine": 258,
                     "startColumn": 4,
-                    "startOffset": 33299,
+                    "startOffset": 33298,
                     "endLine": 264,
                     "endColumn": 12,
-                    "endOffset": 33771
+                    "endOffset": 33770
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2448,10 +2455,10 @@
                 "to": {
                     "startLine": 265,
                     "startColumn": 4,
-                    "startOffset": 33776,
+                    "startOffset": 33775,
                     "endLine": 268,
                     "endColumn": 12,
-                    "endOffset": 33993
+                    "endOffset": 33992
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2461,10 +2468,10 @@
                 "to": {
                     "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 33998,
+                    "startOffset": 33997,
                     "endLine": 272,
                     "endColumn": 12,
-                    "endOffset": 34215
+                    "endOffset": 34214
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2474,10 +2481,10 @@
                 "to": {
                     "startLine": 273,
                     "startColumn": 4,
-                    "startOffset": 34220,
+                    "startOffset": 34219,
                     "endLine": 277,
                     "endColumn": 12,
-                    "endOffset": 34483
+                    "endOffset": 34482
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2487,10 +2494,10 @@
                 "to": {
                     "startLine": 278,
                     "startColumn": 4,
-                    "startOffset": 34488,
+                    "startOffset": 34487,
                     "endLine": 281,
                     "endColumn": 12,
-                    "endOffset": 34710
+                    "endOffset": 34709
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2500,10 +2507,10 @@
                 "to": {
                     "startLine": 282,
                     "startColumn": 4,
-                    "startOffset": 34715,
+                    "startOffset": 34714,
                     "endLine": 285,
                     "endColumn": 12,
-                    "endOffset": 34940
+                    "endOffset": 34939
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2513,10 +2520,10 @@
                 "to": {
                     "startLine": 286,
                     "startColumn": 4,
-                    "startOffset": 34945,
+                    "startOffset": 34944,
                     "endLine": 289,
                     "endColumn": 12,
-                    "endOffset": 35170
+                    "endOffset": 35169
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2526,10 +2533,10 @@
                 "to": {
                     "startLine": 290,
                     "startColumn": 4,
-                    "startOffset": 35175,
+                    "startOffset": 35174,
                     "endLine": 293,
                     "endColumn": 12,
-                    "endOffset": 35400
+                    "endOffset": 35399
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2539,10 +2546,10 @@
                 "to": {
                     "startLine": 294,
                     "startColumn": 4,
-                    "startOffset": 35405,
+                    "startOffset": 35404,
                     "endLine": 297,
                     "endColumn": 12,
-                    "endOffset": 35630
+                    "endOffset": 35629
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2552,10 +2559,10 @@
                 "to": {
                     "startLine": 298,
                     "startColumn": 4,
-                    "startOffset": 35635,
+                    "startOffset": 35634,
                     "endLine": 301,
                     "endColumn": 12,
-                    "endOffset": 35857
+                    "endOffset": 35856
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2565,10 +2572,10 @@
                 "to": {
                     "startLine": 302,
                     "startColumn": 4,
-                    "startOffset": 35862,
+                    "startOffset": 35861,
                     "endLine": 305,
                     "endColumn": 12,
-                    "endOffset": 36096
+                    "endOffset": 36095
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2578,10 +2585,10 @@
                 "to": {
                     "startLine": 306,
                     "startColumn": 4,
-                    "startOffset": 36101,
+                    "startOffset": 36100,
                     "endLine": 309,
                     "endColumn": 12,
-                    "endOffset": 36322
+                    "endOffset": 36321
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2591,10 +2598,10 @@
                 "to": {
                     "startLine": 310,
                     "startColumn": 4,
-                    "startOffset": 36327,
+                    "startOffset": 36326,
                     "endLine": 313,
                     "endColumn": 12,
-                    "endOffset": 36567
+                    "endOffset": 36566
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2604,10 +2611,10 @@
                 "to": {
                     "startLine": 314,
                     "startColumn": 4,
-                    "startOffset": 36572,
+                    "startOffset": 36571,
                     "endLine": 315,
                     "endColumn": 12,
-                    "endOffset": 36697
+                    "endOffset": 36696
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2617,10 +2624,10 @@
                 "to": {
                     "startLine": 316,
                     "startColumn": 4,
-                    "startOffset": 36702,
+                    "startOffset": 36701,
                     "endLine": 317,
                     "endColumn": 12,
-                    "endOffset": 36827
+                    "endOffset": 36826
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2630,10 +2637,10 @@
                 "to": {
                     "startLine": 318,
                     "startColumn": 4,
-                    "startOffset": 36832,
+                    "startOffset": 36831,
                     "endLine": 321,
                     "endColumn": 12,
-                    "endOffset": 37057
+                    "endOffset": 37056
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2643,10 +2650,10 @@
                 "to": {
                     "startLine": 322,
                     "startColumn": 4,
-                    "startOffset": 37062,
+                    "startOffset": 37061,
                     "endLine": 325,
                     "endColumn": 12,
-                    "endOffset": 37305
+                    "endOffset": 37304
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2656,10 +2663,10 @@
                 "to": {
                     "startLine": 326,
                     "startColumn": 4,
-                    "startOffset": 37310,
+                    "startOffset": 37309,
                     "endLine": 329,
                     "endColumn": 12,
-                    "endOffset": 37524
+                    "endOffset": 37523
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2669,10 +2676,10 @@
                 "to": {
                     "startLine": 330,
                     "startColumn": 4,
-                    "startOffset": 37529,
+                    "startOffset": 37528,
                     "endLine": 334,
                     "endColumn": 12,
-                    "endOffset": 37807
+                    "endOffset": 37806
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2682,10 +2689,10 @@
                 "to": {
                     "startLine": 335,
                     "startColumn": 4,
-                    "startOffset": 37812,
+                    "startOffset": 37811,
                     "endLine": 338,
                     "endColumn": 12,
-                    "endOffset": 38015
+                    "endOffset": 38014
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2695,10 +2702,10 @@
                 "to": {
                     "startLine": 339,
                     "startColumn": 4,
-                    "startOffset": 38020,
+                    "startOffset": 38019,
                     "endLine": 341,
                     "endColumn": 12,
-                    "endOffset": 38146
+                    "endOffset": 38145
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2708,10 +2715,10 @@
                 "to": {
                     "startLine": 342,
                     "startColumn": 4,
-                    "startOffset": 38151,
+                    "startOffset": 38150,
                     "endLine": 345,
                     "endColumn": 12,
-                    "endOffset": 38373
+                    "endOffset": 38372
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2721,10 +2728,10 @@
                 "to": {
                     "startLine": 346,
                     "startColumn": 4,
-                    "startOffset": 38378,
+                    "startOffset": 38377,
                     "endLine": 349,
                     "endColumn": 12,
-                    "endOffset": 38619
+                    "endOffset": 38618
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2734,10 +2741,10 @@
                 "to": {
                     "startLine": 350,
                     "startColumn": 4,
-                    "startOffset": 38624,
+                    "startOffset": 38623,
                     "endLine": 353,
                     "endColumn": 12,
-                    "endOffset": 38844
+                    "endOffset": 38843
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2747,10 +2754,10 @@
                 "to": {
                     "startLine": 354,
                     "startColumn": 4,
-                    "startOffset": 38849,
+                    "startOffset": 38848,
                     "endLine": 357,
                     "endColumn": 12,
-                    "endOffset": 39091
+                    "endOffset": 39090
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2760,10 +2767,10 @@
                 "to": {
                     "startLine": 358,
                     "startColumn": 4,
-                    "startOffset": 39096,
+                    "startOffset": 39095,
                     "endLine": 361,
                     "endColumn": 12,
-                    "endOffset": 39312
+                    "endOffset": 39311
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2773,10 +2780,10 @@
                 "to": {
                     "startLine": 362,
                     "startColumn": 4,
-                    "startOffset": 39317,
+                    "startOffset": 39316,
                     "endLine": 365,
                     "endColumn": 12,
-                    "endOffset": 39557
+                    "endOffset": 39556
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2786,10 +2793,10 @@
                 "to": {
                     "startLine": 366,
                     "startColumn": 4,
-                    "startOffset": 39562,
+                    "startOffset": 39561,
                     "endLine": 369,
                     "endColumn": 12,
-                    "endOffset": 39833
+                    "endOffset": 39832
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2799,10 +2806,10 @@
                 "to": {
                     "startLine": 370,
                     "startColumn": 4,
-                    "startOffset": 39838,
+                    "startOffset": 39837,
                     "endLine": 373,
                     "endColumn": 12,
-                    "endOffset": 40134
+                    "endOffset": 40133
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2812,10 +2819,10 @@
                 "to": {
                     "startLine": 374,
                     "startColumn": 4,
-                    "startOffset": 40139,
+                    "startOffset": 40138,
                     "endLine": 377,
                     "endColumn": 12,
-                    "endOffset": 40458
+                    "endOffset": 40457
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2825,10 +2832,10 @@
                 "to": {
                     "startLine": 378,
                     "startColumn": 4,
-                    "startOffset": 40463,
+                    "startOffset": 40462,
                     "endLine": 381,
                     "endColumn": 12,
-                    "endOffset": 40749
+                    "endOffset": 40748
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2838,10 +2845,10 @@
                 "to": {
                     "startLine": 382,
                     "startColumn": 4,
-                    "startOffset": 40754,
+                    "startOffset": 40753,
                     "endLine": 385,
                     "endColumn": 12,
-                    "endOffset": 41063
+                    "endOffset": 41062
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2851,9 +2858,9 @@
                 "to": {
                     "startLine": 386,
                     "startColumn": 4,
-                    "startOffset": 41068,
+                    "startOffset": 41067,
                     "endColumn": 136,
-                    "endOffset": 41200
+                    "endOffset": 41199
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2863,9 +2870,9 @@
                 "to": {
                     "startLine": 387,
                     "startColumn": 4,
-                    "startOffset": 41205,
+                    "startOffset": 41204,
                     "endColumn": 130,
-                    "endOffset": 41331
+                    "endOffset": 41330
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2875,9 +2882,9 @@
                 "to": {
                     "startLine": 388,
                     "startColumn": 4,
-                    "startOffset": 41336,
+                    "startOffset": 41335,
                     "endColumn": 104,
-                    "endOffset": 41436
+                    "endOffset": 41435
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2887,10 +2894,10 @@
                 "to": {
                     "startLine": 389,
                     "startColumn": 4,
-                    "startOffset": 41441,
+                    "startOffset": 41440,
                     "endLine": 391,
                     "endColumn": 12,
-                    "endOffset": 41640
+                    "endOffset": 41639
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2900,10 +2907,10 @@
                 "to": {
                     "startLine": 392,
                     "startColumn": 4,
-                    "startOffset": 41645,
+                    "startOffset": 41644,
                     "endLine": 394,
                     "endColumn": 12,
-                    "endOffset": 41848
+                    "endOffset": 41847
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2913,10 +2920,10 @@
                 "to": {
                     "startLine": 395,
                     "startColumn": 4,
-                    "startOffset": 41853,
+                    "startOffset": 41852,
                     "endLine": 396,
                     "endColumn": 12,
-                    "endOffset": 41972
+                    "endOffset": 41971
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2926,10 +2933,10 @@
                 "to": {
                     "startLine": 397,
                     "startColumn": 4,
-                    "startOffset": 41977,
+                    "startOffset": 41976,
                     "endLine": 398,
                     "endColumn": 12,
-                    "endOffset": 42096
+                    "endOffset": 42095
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2939,9 +2946,9 @@
                 "to": {
                     "startLine": 399,
                     "startColumn": 4,
-                    "startOffset": 42101,
+                    "startOffset": 42100,
                     "endColumn": 104,
-                    "endOffset": 42201
+                    "endOffset": 42200
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2951,9 +2958,9 @@
                 "to": {
                     "startLine": 400,
                     "startColumn": 4,
-                    "startOffset": 42206,
+                    "startOffset": 42205,
                     "endColumn": 116,
-                    "endOffset": 42318
+                    "endOffset": 42317
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2963,10 +2970,10 @@
                 "to": {
                     "startLine": 401,
                     "startColumn": 4,
-                    "startOffset": 42323,
+                    "startOffset": 42322,
                     "endLine": 403,
                     "endColumn": 12,
-                    "endOffset": 42532
+                    "endOffset": 42531
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2976,10 +2983,10 @@
                 "to": {
                     "startLine": 404,
                     "startColumn": 4,
-                    "startOffset": 42537,
+                    "startOffset": 42536,
                     "endLine": 405,
                     "endColumn": 12,
-                    "endOffset": 42678
+                    "endOffset": 42677
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -2989,10 +2996,10 @@
                 "to": {
                     "startLine": 406,
                     "startColumn": 4,
-                    "startOffset": 42683,
+                    "startOffset": 42682,
                     "endLine": 407,
                     "endColumn": 12,
-                    "endOffset": 42818
+                    "endOffset": 42817
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3002,10 +3009,10 @@
                 "to": {
                     "startLine": 408,
                     "startColumn": 4,
-                    "startOffset": 42823,
+                    "startOffset": 42822,
                     "endLine": 409,
                     "endColumn": 12,
-                    "endOffset": 42904
+                    "endOffset": 42903
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3015,10 +3022,10 @@
                 "to": {
                     "startLine": 410,
                     "startColumn": 4,
-                    "startOffset": 42909,
+                    "startOffset": 42908,
                     "endLine": 414,
                     "endColumn": 12,
-                    "endOffset": 43252
+                    "endOffset": 43251
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3028,9 +3035,9 @@
                 "to": {
                     "startLine": 415,
                     "startColumn": 4,
-                    "startOffset": 43257,
+                    "startOffset": 43256,
                     "endColumn": 87,
-                    "endOffset": 43340
+                    "endOffset": 43339
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3040,10 +3047,10 @@
                 "to": {
                     "startLine": 416,
                     "startColumn": 4,
-                    "startOffset": 43345,
+                    "startOffset": 43344,
                     "endLine": 419,
                     "endColumn": 12,
-                    "endOffset": 43570
+                    "endOffset": 43569
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3053,10 +3060,10 @@
                 "to": {
                     "startLine": 420,
                     "startColumn": 4,
-                    "startOffset": 43575,
+                    "startOffset": 43574,
                     "endLine": 425,
                     "endColumn": 12,
-                    "endOffset": 43988
+                    "endOffset": 43987
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3066,10 +3073,10 @@
                 "to": {
                     "startLine": 426,
                     "startColumn": 4,
-                    "startOffset": 43993,
+                    "startOffset": 43992,
                     "endLine": 429,
                     "endColumn": 12,
-                    "endOffset": 44221
+                    "endOffset": 44220
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3079,9 +3086,9 @@
                 "to": {
                     "startLine": 430,
                     "startColumn": 4,
-                    "startOffset": 44226,
+                    "startOffset": 44225,
                     "endColumn": 81,
-                    "endOffset": 44303
+                    "endOffset": 44302
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3091,10 +3098,10 @@
                 "to": {
                     "startLine": 431,
                     "startColumn": 4,
-                    "startOffset": 44308,
+                    "startOffset": 44307,
                     "endLine": 432,
                     "endColumn": 12,
-                    "endOffset": 44401
+                    "endOffset": 44400
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3104,10 +3111,10 @@
                 "to": {
                     "startLine": 433,
                     "startColumn": 4,
-                    "startOffset": 44406,
+                    "startOffset": 44405,
                     "endLine": 443,
                     "endColumn": 12,
-                    "endOffset": 45018
+                    "endOffset": 45017
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3117,9 +3124,9 @@
                 "to": {
                     "startLine": 444,
                     "startColumn": 4,
-                    "startOffset": 45023,
+                    "startOffset": 45022,
                     "endColumn": 99,
-                    "endOffset": 45118
+                    "endOffset": 45117
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3129,10 +3136,10 @@
                 "to": {
                     "startLine": 445,
                     "startColumn": 4,
-                    "startOffset": 45123,
+                    "startOffset": 45122,
                     "endLine": 448,
                     "endColumn": 12,
-                    "endOffset": 45354
+                    "endOffset": 45353
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3142,10 +3149,10 @@
                 "to": {
                     "startLine": 449,
                     "startColumn": 4,
-                    "startOffset": 45359,
+                    "startOffset": 45358,
                     "endLine": 454,
                     "endColumn": 12,
-                    "endOffset": 45778
+                    "endOffset": 45777
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3155,10 +3162,10 @@
                 "to": {
                     "startLine": 455,
                     "startColumn": 4,
-                    "startOffset": 45783,
+                    "startOffset": 45782,
                     "endLine": 458,
                     "endColumn": 12,
-                    "endOffset": 46017
+                    "endOffset": 46016
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3168,9 +3175,9 @@
                 "to": {
                     "startLine": 459,
                     "startColumn": 4,
-                    "startOffset": 46022,
+                    "startOffset": 46021,
                     "endColumn": 93,
-                    "endOffset": 46111
+                    "endOffset": 46110
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3180,9 +3187,9 @@
                 "to": {
                     "startLine": 460,
                     "startColumn": 4,
-                    "startOffset": 46116,
+                    "startOffset": 46115,
                     "endColumn": 88,
-                    "endOffset": 46200
+                    "endOffset": 46199
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3192,10 +3199,10 @@
                 "to": {
                     "startLine": 461,
                     "startColumn": 4,
-                    "startOffset": 46205,
+                    "startOffset": 46204,
                     "endLine": 464,
                     "endColumn": 12,
-                    "endOffset": 46437
+                    "endOffset": 46436
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3205,10 +3212,10 @@
                 "to": {
                     "startLine": 465,
                     "startColumn": 4,
-                    "startOffset": 46442,
+                    "startOffset": 46441,
                     "endLine": 490,
                     "endColumn": 12,
-                    "endOffset": 48388
+                    "endOffset": 48387
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3218,10 +3225,10 @@
                 "to": {
                     "startLine": 491,
                     "startColumn": 4,
-                    "startOffset": 48393,
+                    "startOffset": 48392,
                     "endLine": 494,
                     "endColumn": 12,
-                    "endOffset": 48630
+                    "endOffset": 48629
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3231,10 +3238,10 @@
                 "to": {
                     "startLine": 495,
                     "startColumn": 4,
-                    "startOffset": 48635,
+                    "startOffset": 48634,
                     "endLine": 521,
                     "endColumn": 12,
-                    "endOffset": 50712
+                    "endOffset": 50711
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3244,10 +3251,10 @@
                 "to": {
                     "startLine": 522,
                     "startColumn": 4,
-                    "startOffset": 50717,
+                    "startOffset": 50716,
                     "endLine": 676,
                     "endColumn": 12,
-                    "endOffset": 60578
+                    "endOffset": 60577
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3257,10 +3264,10 @@
                 "to": {
                     "startLine": 677,
                     "startColumn": 4,
-                    "startOffset": 60583,
+                    "startOffset": 60582,
                     "endLine": 698,
                     "endColumn": 12,
-                    "endOffset": 61845
+                    "endOffset": 61844
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3270,10 +3277,10 @@
                 "to": {
                     "startLine": 699,
                     "startColumn": 4,
-                    "startOffset": 61850,
+                    "startOffset": 61849,
                     "endLine": 853,
                     "endColumn": 12,
-                    "endOffset": 71821
+                    "endOffset": 71820
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3283,10 +3290,10 @@
                 "to": {
                     "startLine": 854,
                     "startColumn": 4,
-                    "startOffset": 71826,
+                    "startOffset": 71825,
                     "endLine": 875,
                     "endColumn": 12,
-                    "endOffset": 73102
+                    "endOffset": 73101
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3296,10 +3303,10 @@
                 "to": {
                     "startLine": 876,
                     "startColumn": 4,
-                    "startOffset": 73107,
+                    "startOffset": 73106,
                     "endLine": 882,
                     "endColumn": 12,
-                    "endOffset": 73638
+                    "endOffset": 73637
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3309,10 +3316,10 @@
                 "to": {
                     "startLine": 883,
                     "startColumn": 4,
-                    "startOffset": 73643,
+                    "startOffset": 73642,
                     "endLine": 887,
                     "endColumn": 12,
-                    "endOffset": 73968
+                    "endOffset": 73967
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3322,10 +3329,10 @@
                 "to": {
                     "startLine": 888,
                     "startColumn": 4,
-                    "startOffset": 73973,
+                    "startOffset": 73972,
                     "endLine": 908,
                     "endColumn": 12,
-                    "endOffset": 75091
+                    "endOffset": 75090
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3335,10 +3342,10 @@
                 "to": {
                     "startLine": 909,
                     "startColumn": 4,
-                    "startOffset": 75096,
+                    "startOffset": 75095,
                     "endLine": 913,
                     "endColumn": 12,
-                    "endOffset": 75347
+                    "endOffset": 75346
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3348,10 +3355,10 @@
                 "to": {
                     "startLine": 914,
                     "startColumn": 4,
-                    "startOffset": 75352,
+                    "startOffset": 75351,
                     "endLine": 918,
                     "endColumn": 12,
-                    "endOffset": 75583
+                    "endOffset": 75582
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3361,10 +3368,10 @@
                 "to": {
                     "startLine": 919,
                     "startColumn": 4,
-                    "startOffset": 75588,
+                    "startOffset": 75587,
                     "endLine": 928,
                     "endColumn": 12,
-                    "endOffset": 76130
+                    "endOffset": 76129
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3374,10 +3381,10 @@
                 "to": {
                     "startLine": 929,
                     "startColumn": 4,
-                    "startOffset": 76135,
+                    "startOffset": 76134,
                     "endLine": 937,
                     "endColumn": 12,
-                    "endOffset": 76624
+                    "endOffset": 76623
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3387,10 +3394,10 @@
                 "to": {
                     "startLine": 938,
                     "startColumn": 4,
-                    "startOffset": 76629,
+                    "startOffset": 76628,
                     "endLine": 946,
                     "endColumn": 12,
-                    "endOffset": 77229
+                    "endOffset": 77228
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3400,10 +3407,10 @@
                 "to": {
                     "startLine": 947,
                     "startColumn": 4,
-                    "startOffset": 77234,
+                    "startOffset": 77233,
                     "endLine": 949,
                     "endColumn": 12,
-                    "endOffset": 77377
+                    "endOffset": 77376
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3413,10 +3420,10 @@
                 "to": {
                     "startLine": 950,
                     "startColumn": 4,
-                    "startOffset": 77382,
+                    "startOffset": 77381,
                     "endLine": 956,
                     "endColumn": 12,
-                    "endOffset": 77965
+                    "endOffset": 77964
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3426,10 +3433,10 @@
                 "to": {
                     "startLine": 957,
                     "startColumn": 4,
-                    "startOffset": 77970,
+                    "startOffset": 77969,
                     "endLine": 964,
                     "endColumn": 12,
-                    "endOffset": 78529
+                    "endOffset": 78528
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3439,10 +3446,10 @@
                 "to": {
                     "startLine": 965,
                     "startColumn": 4,
-                    "startOffset": 78534,
+                    "startOffset": 78533,
                     "endLine": 971,
                     "endColumn": 12,
-                    "endOffset": 78904
+                    "endOffset": 78903
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3452,9 +3459,9 @@
                 "to": {
                     "startLine": 972,
                     "startColumn": 4,
-                    "startOffset": 78909,
+                    "startOffset": 78908,
                     "endColumn": 117,
-                    "endOffset": 79022
+                    "endOffset": 79021
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3464,10 +3471,10 @@
                 "to": {
                     "startLine": 973,
                     "startColumn": 4,
-                    "startOffset": 79027,
+                    "startOffset": 79026,
                     "endLine": 981,
                     "endColumn": 12,
-                    "endOffset": 79560
+                    "endOffset": 79559
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3477,10 +3484,10 @@
                 "to": {
                     "startLine": 982,
                     "startColumn": 4,
-                    "startOffset": 79565,
+                    "startOffset": 79564,
                     "endLine": 984,
                     "endColumn": 12,
-                    "endOffset": 79717
+                    "endOffset": 79716
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3490,10 +3497,10 @@
                 "to": {
                     "startLine": 985,
                     "startColumn": 4,
-                    "startOffset": 79722,
+                    "startOffset": 79721,
                     "endLine": 987,
                     "endColumn": 12,
-                    "endOffset": 79861
+                    "endOffset": 79860
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3503,10 +3510,10 @@
                 "to": {
                     "startLine": 988,
                     "startColumn": 4,
-                    "startOffset": 79866,
+                    "startOffset": 79865,
                     "endLine": 992,
                     "endColumn": 12,
-                    "endOffset": 80181
+                    "endOffset": 80180
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3516,10 +3523,10 @@
                 "to": {
                     "startLine": 993,
                     "startColumn": 4,
-                    "startOffset": 80186,
+                    "startOffset": 80185,
                     "endLine": 996,
                     "endColumn": 12,
-                    "endOffset": 80437
+                    "endOffset": 80436
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3529,10 +3536,10 @@
                 "to": {
                     "startLine": 997,
                     "startColumn": 4,
-                    "startOffset": 80442,
+                    "startOffset": 80441,
                     "endLine": 1000,
                     "endColumn": 12,
-                    "endOffset": 80607
+                    "endOffset": 80606
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3542,10 +3549,10 @@
                 "to": {
                     "startLine": 1001,
                     "startColumn": 4,
-                    "startOffset": 80612,
+                    "startOffset": 80611,
                     "endLine": 1003,
                     "endColumn": 12,
-                    "endOffset": 80748
+                    "endOffset": 80747
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3555,9 +3562,9 @@
                 "to": {
                     "startLine": 1004,
                     "startColumn": 4,
-                    "startOffset": 80753,
+                    "startOffset": 80752,
                     "endColumn": 63,
-                    "endOffset": 80812
+                    "endOffset": 80811
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3567,10 +3574,10 @@
                 "to": {
                     "startLine": 1005,
                     "startColumn": 4,
-                    "startOffset": 80817,
+                    "startOffset": 80816,
                     "endLine": 1008,
                     "endColumn": 12,
-                    "endOffset": 81094
+                    "endOffset": 81093
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3580,10 +3587,10 @@
                 "to": {
                     "startLine": 1009,
                     "startColumn": 4,
-                    "startOffset": 81099,
+                    "startOffset": 81098,
                     "endLine": 1012,
                     "endColumn": 12,
-                    "endOffset": 81380
+                    "endOffset": 81379
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3593,10 +3600,10 @@
                 "to": {
                     "startLine": 1013,
                     "startColumn": 4,
-                    "startOffset": 81385,
+                    "startOffset": 81384,
                     "endLine": 1022,
                     "endColumn": 12,
-                    "endOffset": 82056
+                    "endOffset": 82055
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3606,10 +3613,10 @@
                 "to": {
                     "startLine": 1023,
                     "startColumn": 4,
-                    "startOffset": 82061,
+                    "startOffset": 82060,
                     "endLine": 1027,
                     "endColumn": 12,
-                    "endOffset": 82320
+                    "endOffset": 82319
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3619,10 +3626,10 @@
                 "to": {
                     "startLine": 1028,
                     "startColumn": 4,
-                    "startOffset": 82325,
+                    "startOffset": 82324,
                     "endLine": 1034,
                     "endColumn": 12,
-                    "endOffset": 82658
+                    "endOffset": 82657
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3632,10 +3639,10 @@
                 "to": {
                     "startLine": 1035,
                     "startColumn": 4,
-                    "startOffset": 82663,
+                    "startOffset": 82662,
                     "endLine": 1040,
                     "endColumn": 12,
-                    "endOffset": 83011
+                    "endOffset": 83010
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3645,9 +3652,9 @@
                 "to": {
                     "startLine": 1041,
                     "startColumn": 4,
-                    "startOffset": 83016,
+                    "startOffset": 83015,
                     "endColumn": 93,
-                    "endOffset": 83105
+                    "endOffset": 83104
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3657,10 +3664,10 @@
                 "to": {
                     "startLine": 1042,
                     "startColumn": 4,
-                    "startOffset": 83110,
+                    "startOffset": 83109,
                     "endLine": 1044,
                     "endColumn": 12,
-                    "endOffset": 83291
+                    "endOffset": 83290
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3670,10 +3677,10 @@
                 "to": {
                     "startLine": 1045,
                     "startColumn": 4,
-                    "startOffset": 83296,
+                    "startOffset": 83295,
                     "endLine": 1048,
                     "endColumn": 12,
-                    "endOffset": 83597
+                    "endOffset": 83596
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3683,10 +3690,10 @@
                 "to": {
                     "startLine": 1049,
                     "startColumn": 4,
-                    "startOffset": 83602,
+                    "startOffset": 83601,
                     "endLine": 1053,
                     "endColumn": 12,
-                    "endOffset": 83859
+                    "endOffset": 83858
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3696,10 +3703,10 @@
                 "to": {
                     "startLine": 1054,
                     "startColumn": 4,
-                    "startOffset": 83864,
+                    "startOffset": 83863,
                     "endLine": 1055,
                     "endColumn": 12,
-                    "endOffset": 83984
+                    "endOffset": 83983
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3709,10 +3716,10 @@
                 "to": {
                     "startLine": 1056,
                     "startColumn": 4,
-                    "startOffset": 83989,
+                    "startOffset": 83988,
                     "endLine": 1057,
                     "endColumn": 12,
-                    "endOffset": 84111
+                    "endOffset": 84110
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3722,10 +3729,10 @@
                 "to": {
                     "startLine": 1058,
                     "startColumn": 4,
-                    "startOffset": 84116,
+                    "startOffset": 84115,
                     "endLine": 1060,
                     "endColumn": 12,
-                    "endOffset": 84350
+                    "endOffset": 84349
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3735,10 +3742,10 @@
                 "to": {
                     "startLine": 1061,
                     "startColumn": 4,
-                    "startOffset": 84355,
+                    "startOffset": 84354,
                     "endLine": 1063,
                     "endColumn": 12,
-                    "endOffset": 84561
+                    "endOffset": 84560
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3748,10 +3755,10 @@
                 "to": {
                     "startLine": 1064,
                     "startColumn": 4,
-                    "startOffset": 84566,
+                    "startOffset": 84565,
                     "endLine": 1065,
                     "endColumn": 12,
-                    "endOffset": 84680
+                    "endOffset": 84679
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3761,10 +3768,10 @@
                 "to": {
                     "startLine": 1066,
                     "startColumn": 4,
-                    "startOffset": 84685,
+                    "startOffset": 84684,
                     "endLine": 1069,
                     "endColumn": 12,
-                    "endOffset": 84873
+                    "endOffset": 84872
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3774,10 +3781,10 @@
                 "to": {
                     "startLine": 1070,
                     "startColumn": 4,
-                    "startOffset": 84878,
+                    "startOffset": 84877,
                     "endLine": 1076,
                     "endColumn": 12,
-                    "endOffset": 85328
+                    "endOffset": 85327
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3787,10 +3794,10 @@
                 "to": {
                     "startLine": 1077,
                     "startColumn": 4,
-                    "startOffset": 85333,
+                    "startOffset": 85332,
                     "endLine": 1079,
                     "endColumn": 12,
-                    "endOffset": 85509
+                    "endOffset": 85508
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3800,10 +3807,10 @@
                 "to": {
                     "startLine": 1080,
                     "startColumn": 4,
-                    "startOffset": 85514,
+                    "startOffset": 85513,
                     "endLine": 1082,
                     "endColumn": 12,
-                    "endOffset": 85631
+                    "endOffset": 85630
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3813,10 +3820,10 @@
                 "to": {
                     "startLine": 1083,
                     "startColumn": 4,
-                    "startOffset": 85636,
+                    "startOffset": 85635,
                     "endLine": 1086,
                     "endColumn": 12,
-                    "endOffset": 85890
+                    "endOffset": 85889
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3826,10 +3833,10 @@
                 "to": {
                     "startLine": 1087,
                     "startColumn": 4,
-                    "startOffset": 85895,
+                    "startOffset": 85894,
                     "endLine": 1088,
                     "endColumn": 12,
-                    "endOffset": 86003
+                    "endOffset": 86002
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3839,10 +3846,10 @@
                 "to": {
                     "startLine": 1089,
                     "startColumn": 4,
-                    "startOffset": 86008,
+                    "startOffset": 86007,
                     "endLine": 1092,
                     "endColumn": 12,
-                    "endOffset": 86190
+                    "endOffset": 86189
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3852,10 +3859,10 @@
                 "to": {
                     "startLine": 1093,
                     "startColumn": 4,
-                    "startOffset": 86195,
+                    "startOffset": 86194,
                     "endLine": 1094,
                     "endColumn": 12,
-                    "endOffset": 86292
+                    "endOffset": 86291
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3865,10 +3872,10 @@
                 "to": {
                     "startLine": 1095,
                     "startColumn": 4,
-                    "startOffset": 86297,
+                    "startOffset": 86296,
                     "endLine": 1100,
                     "endColumn": 12,
-                    "endOffset": 86736
+                    "endOffset": 86735
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3878,10 +3885,10 @@
                 "to": {
                     "startLine": 1101,
                     "startColumn": 4,
-                    "startOffset": 86741,
+                    "startOffset": 86740,
                     "endLine": 1102,
                     "endColumn": 12,
-                    "endOffset": 86860
+                    "endOffset": 86859
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3891,10 +3898,10 @@
                 "to": {
                     "startLine": 1103,
                     "startColumn": 4,
-                    "startOffset": 86865,
+                    "startOffset": 86864,
                     "endLine": 1106,
                     "endColumn": 12,
-                    "endOffset": 87145
+                    "endOffset": 87144
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3904,10 +3911,10 @@
                 "to": {
                     "startLine": 1107,
                     "startColumn": 4,
-                    "startOffset": 87150,
+                    "startOffset": 87149,
                     "endLine": 1114,
                     "endColumn": 12,
-                    "endOffset": 87653
+                    "endOffset": 87652
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3917,10 +3924,10 @@
                 "to": {
                     "startLine": 1115,
                     "startColumn": 4,
-                    "startOffset": 87658,
+                    "startOffset": 87657,
                     "endLine": 1122,
                     "endColumn": 12,
-                    "endOffset": 88149
+                    "endOffset": 88148
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3930,10 +3937,10 @@
                 "to": {
                     "startLine": 1123,
                     "startColumn": 4,
-                    "startOffset": 88154,
+                    "startOffset": 88153,
                     "endLine": 1134,
                     "endColumn": 12,
-                    "endOffset": 89036
+                    "endOffset": 89035
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3943,10 +3950,10 @@
                 "to": {
                     "startLine": 1135,
                     "startColumn": 4,
-                    "startOffset": 89041,
+                    "startOffset": 89040,
                     "endLine": 1140,
                     "endColumn": 12,
-                    "endOffset": 89330
+                    "endOffset": 89329
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3956,10 +3963,10 @@
                 "to": {
                     "startLine": 1141,
                     "startColumn": 4,
-                    "startOffset": 89335,
+                    "startOffset": 89334,
                     "endLine": 1149,
                     "endColumn": 12,
-                    "endOffset": 89900
+                    "endOffset": 89899
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3969,10 +3976,10 @@
                 "to": {
                     "startLine": 1150,
                     "startColumn": 4,
-                    "startOffset": 89905,
+                    "startOffset": 89904,
                     "endLine": 1160,
                     "endColumn": 12,
-                    "endOffset": 90632
+                    "endOffset": 90631
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3982,10 +3989,10 @@
                 "to": {
                     "startLine": 1161,
                     "startColumn": 4,
-                    "startOffset": 90637,
+                    "startOffset": 90636,
                     "endLine": 1163,
                     "endColumn": 12,
-                    "endOffset": 90804
+                    "endOffset": 90803
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -3995,10 +4002,10 @@
                 "to": {
                     "startLine": 1164,
                     "startColumn": 4,
-                    "startOffset": 90809,
+                    "startOffset": 90808,
                     "endLine": 1168,
                     "endColumn": 12,
-                    "endOffset": 91140
+                    "endOffset": 91139
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4008,10 +4015,10 @@
                 "to": {
                     "startLine": 1169,
                     "startColumn": 4,
-                    "startOffset": 91145,
+                    "startOffset": 91144,
                     "endLine": 1180,
                     "endColumn": 12,
-                    "endOffset": 92048
+                    "endOffset": 92047
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4021,10 +4028,10 @@
                 "to": {
                     "startLine": 1181,
                     "startColumn": 4,
-                    "startOffset": 92053,
+                    "startOffset": 92052,
                     "endLine": 1185,
                     "endColumn": 12,
-                    "endOffset": 92326
+                    "endOffset": 92325
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4034,10 +4041,10 @@
                 "to": {
                     "startLine": 1186,
                     "startColumn": 4,
-                    "startOffset": 92331,
+                    "startOffset": 92330,
                     "endLine": 1223,
                     "endColumn": 12,
-                    "endOffset": 95188
+                    "endOffset": 95187
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4047,10 +4054,10 @@
                 "to": {
                     "startLine": 1224,
                     "startColumn": 4,
-                    "startOffset": 95193,
+                    "startOffset": 95192,
                     "endLine": 1262,
                     "endColumn": 12,
-                    "endOffset": 98190
+                    "endOffset": 98189
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4060,9 +4067,9 @@
                 "to": {
                     "startLine": 1263,
                     "startColumn": 4,
-                    "startOffset": 98195,
+                    "startOffset": 98194,
                     "endColumn": 61,
-                    "endOffset": 98252
+                    "endOffset": 98251
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4072,10 +4079,10 @@
                 "to": {
                     "startLine": 1264,
                     "startColumn": 4,
-                    "startOffset": 98257,
+                    "startOffset": 98256,
                     "endLine": 1273,
                     "endColumn": 12,
-                    "endOffset": 98882
+                    "endOffset": 98881
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4085,10 +4092,10 @@
                 "to": {
                     "startLine": 1274,
                     "startColumn": 4,
-                    "startOffset": 98887,
+                    "startOffset": 98886,
                     "endLine": 1282,
                     "endColumn": 12,
-                    "endOffset": 99496
+                    "endOffset": 99495
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4098,9 +4105,9 @@
                 "to": {
                     "startLine": 1283,
                     "startColumn": 4,
-                    "startOffset": 99501,
+                    "startOffset": 99500,
                     "endColumn": 85,
-                    "endOffset": 99582
+                    "endOffset": 99581
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4110,10 +4117,10 @@
                 "to": {
                     "startLine": 1284,
                     "startColumn": 4,
-                    "startOffset": 99587,
+                    "startOffset": 99586,
                     "endLine": 1285,
                     "endColumn": 12,
-                    "endOffset": 99695
+                    "endOffset": 99694
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4123,10 +4130,10 @@
                 "to": {
                     "startLine": 1286,
                     "startColumn": 4,
-                    "startOffset": 99700,
+                    "startOffset": 99699,
                     "endLine": 1289,
                     "endColumn": 12,
-                    "endOffset": 99924
+                    "endOffset": 99923
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4136,10 +4143,10 @@
                 "to": {
                     "startLine": 1290,
                     "startColumn": 4,
-                    "startOffset": 99929,
+                    "startOffset": 99928,
                     "endLine": 1292,
                     "endColumn": 12,
-                    "endOffset": 100084
+                    "endOffset": 100083
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4149,10 +4156,10 @@
                 "to": {
                     "startLine": 1293,
                     "startColumn": 4,
-                    "startOffset": 100089,
+                    "startOffset": 100088,
                     "endLine": 1295,
                     "endColumn": 12,
-                    "endOffset": 100236
+                    "endOffset": 100235
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4162,10 +4169,10 @@
                 "to": {
                     "startLine": 1296,
                     "startColumn": 4,
-                    "startOffset": 100241,
+                    "startOffset": 100240,
                     "endLine": 1298,
                     "endColumn": 12,
-                    "endOffset": 100407
+                    "endOffset": 100406
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4175,10 +4182,10 @@
                 "to": {
                     "startLine": 1299,
                     "startColumn": 4,
-                    "startOffset": 100412,
+                    "startOffset": 100411,
                     "endLine": 1301,
                     "endColumn": 12,
-                    "endOffset": 100574
+                    "endOffset": 100573
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4188,10 +4195,10 @@
                 "to": {
                     "startLine": 1302,
                     "startColumn": 4,
-                    "startOffset": 100579,
+                    "startOffset": 100578,
                     "endLine": 1305,
                     "endColumn": 12,
-                    "endOffset": 100817
+                    "endOffset": 100816
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4201,10 +4208,10 @@
                 "to": {
                     "startLine": 1306,
                     "startColumn": 4,
-                    "startOffset": 100822,
+                    "startOffset": 100821,
                     "endLine": 1308,
                     "endColumn": 12,
-                    "endOffset": 100987
+                    "endOffset": 100986
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4214,10 +4221,10 @@
                 "to": {
                     "startLine": 1309,
                     "startColumn": 4,
-                    "startOffset": 100992,
+                    "startOffset": 100991,
                     "endLine": 1311,
                     "endColumn": 12,
-                    "endOffset": 101160
+                    "endOffset": 101159
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4227,10 +4234,10 @@
                 "to": {
                     "startLine": 1312,
                     "startColumn": 4,
-                    "startOffset": 101165,
+                    "startOffset": 101164,
                     "endLine": 1314,
                     "endColumn": 12,
-                    "endOffset": 101331
+                    "endOffset": 101330
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4240,10 +4247,10 @@
                 "to": {
                     "startLine": 1315,
                     "startColumn": 4,
-                    "startOffset": 101336,
+                    "startOffset": 101335,
                     "endLine": 1318,
                     "endColumn": 12,
-                    "endOffset": 101605
+                    "endOffset": 101604
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4253,10 +4260,10 @@
                 "to": {
                     "startLine": 1319,
                     "startColumn": 4,
-                    "startOffset": 101610,
+                    "startOffset": 101609,
                     "endLine": 1321,
                     "endColumn": 12,
-                    "endOffset": 101804
+                    "endOffset": 101803
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4266,10 +4273,10 @@
                 "to": {
                     "startLine": 1322,
                     "startColumn": 4,
-                    "startOffset": 101809,
+                    "startOffset": 101808,
                     "endLine": 1325,
                     "endColumn": 12,
-                    "endOffset": 102009
+                    "endOffset": 102008
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4279,10 +4286,10 @@
                 "to": {
                     "startLine": 1326,
                     "startColumn": 4,
-                    "startOffset": 102014,
+                    "startOffset": 102013,
                     "endLine": 1329,
                     "endColumn": 12,
-                    "endOffset": 102339
+                    "endOffset": 102338
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4292,9 +4299,9 @@
                 "to": {
                     "startLine": 1330,
                     "startColumn": 4,
-                    "startOffset": 102344,
+                    "startOffset": 102343,
                     "endColumn": 83,
-                    "endOffset": 102423
+                    "endOffset": 102422
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4304,9 +4311,9 @@
                 "to": {
                     "startLine": 1331,
                     "startColumn": 4,
-                    "startOffset": 102428,
+                    "startOffset": 102427,
                     "endColumn": 95,
-                    "endOffset": 102519
+                    "endOffset": 102518
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4316,9 +4323,9 @@
                 "to": {
                     "startLine": 1332,
                     "startColumn": 4,
-                    "startOffset": 102524,
+                    "startOffset": 102523,
                     "endColumn": 95,
-                    "endOffset": 102615
+                    "endOffset": 102614
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4328,9 +4335,9 @@
                 "to": {
                     "startLine": 1333,
                     "startColumn": 4,
-                    "startOffset": 102620,
+                    "startOffset": 102619,
                     "endColumn": 97,
-                    "endOffset": 102713
+                    "endOffset": 102712
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4340,9 +4347,9 @@
                 "to": {
                     "startLine": 1334,
                     "startColumn": 4,
-                    "startOffset": 102718,
+                    "startOffset": 102717,
                     "endColumn": 99,
-                    "endOffset": 102813
+                    "endOffset": 102812
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4352,9 +4359,9 @@
                 "to": {
                     "startLine": 1335,
                     "startColumn": 4,
-                    "startOffset": 102818,
+                    "startOffset": 102817,
                     "endColumn": 101,
-                    "endOffset": 102915
+                    "endOffset": 102914
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4364,9 +4371,9 @@
                 "to": {
                     "startLine": 1336,
                     "startColumn": 4,
-                    "startOffset": 102920,
+                    "startOffset": 102919,
                     "endColumn": 101,
-                    "endOffset": 103017
+                    "endOffset": 103016
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4376,9 +4383,9 @@
                 "to": {
                     "startLine": 1337,
                     "startColumn": 4,
-                    "startOffset": 103022,
+                    "startOffset": 103021,
                     "endColumn": 101,
-                    "endOffset": 103119
+                    "endOffset": 103118
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4388,9 +4395,9 @@
                 "to": {
                     "startLine": 1338,
                     "startColumn": 4,
-                    "startOffset": 103124,
+                    "startOffset": 103123,
                     "endColumn": 101,
-                    "endOffset": 103221
+                    "endOffset": 103220
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4400,9 +4407,9 @@
                 "to": {
                     "startLine": 1339,
                     "startColumn": 4,
-                    "startOffset": 103226,
+                    "startOffset": 103225,
                     "endColumn": 101,
-                    "endOffset": 103323
+                    "endOffset": 103322
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4412,9 +4419,9 @@
                 "to": {
                     "startLine": 1340,
                     "startColumn": 4,
-                    "startOffset": 103328,
+                    "startOffset": 103327,
                     "endColumn": 99,
-                    "endOffset": 103423
+                    "endOffset": 103422
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4424,9 +4431,9 @@
                 "to": {
                     "startLine": 1341,
                     "startColumn": 4,
-                    "startOffset": 103428,
+                    "startOffset": 103427,
                     "endColumn": 95,
-                    "endOffset": 103519
+                    "endOffset": 103518
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4436,9 +4443,9 @@
                 "to": {
                     "startLine": 1342,
                     "startColumn": 4,
-                    "startOffset": 103524,
+                    "startOffset": 103523,
                     "endColumn": 111,
-                    "endOffset": 103631
+                    "endOffset": 103630
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4448,9 +4455,9 @@
                 "to": {
                     "startLine": 1343,
                     "startColumn": 4,
-                    "startOffset": 103636,
+                    "startOffset": 103635,
                     "endColumn": 128,
-                    "endOffset": 103760
+                    "endOffset": 103759
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4460,9 +4467,9 @@
                 "to": {
                     "startLine": 1344,
                     "startColumn": 4,
-                    "startOffset": 103765,
+                    "startOffset": 103764,
                     "endColumn": 122,
-                    "endOffset": 103883
+                    "endOffset": 103882
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4472,10 +4479,10 @@
                 "to": {
                     "startLine": 1345,
                     "startColumn": 4,
-                    "startOffset": 103888,
+                    "startOffset": 103887,
                     "endLine": 1346,
                     "endColumn": 12,
-                    "endOffset": 104037
+                    "endOffset": 104036
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4485,10 +4492,10 @@
                 "to": {
                     "startLine": 1347,
                     "startColumn": 4,
-                    "startOffset": 104042,
+                    "startOffset": 104041,
                     "endLine": 1348,
                     "endColumn": 12,
-                    "endOffset": 104191
+                    "endOffset": 104190
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4498,9 +4505,9 @@
                 "to": {
                     "startLine": 1349,
                     "startColumn": 4,
-                    "startOffset": 104196,
+                    "startOffset": 104195,
                     "endColumn": 97,
-                    "endOffset": 104289
+                    "endOffset": 104288
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4510,9 +4517,9 @@
                 "to": {
                     "startLine": 1350,
                     "startColumn": 4,
-                    "startOffset": 104294,
+                    "startOffset": 104293,
                     "endColumn": 113,
-                    "endOffset": 104403
+                    "endOffset": 104402
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4522,9 +4529,9 @@
                 "to": {
                     "startLine": 1351,
                     "startColumn": 4,
-                    "startOffset": 104408,
+                    "startOffset": 104407,
                     "endColumn": 93,
-                    "endOffset": 104497
+                    "endOffset": 104496
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4534,10 +4541,10 @@
                 "to": {
                     "startLine": 1352,
                     "startColumn": 4,
-                    "startOffset": 104502,
+                    "startOffset": 104501,
                     "endLine": 1353,
                     "endColumn": 12,
-                    "endOffset": 104637
+                    "endOffset": 104636
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4547,10 +4554,10 @@
                 "to": {
                     "startLine": 1354,
                     "startColumn": 4,
-                    "startOffset": 104642,
+                    "startOffset": 104641,
                     "endLine": 1355,
                     "endColumn": 12,
-                    "endOffset": 104771
+                    "endOffset": 104770
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4560,9 +4567,9 @@
                 "to": {
                     "startLine": 1356,
                     "startColumn": 4,
-                    "startOffset": 104776,
+                    "startOffset": 104775,
                     "endColumn": 95,
-                    "endOffset": 104867
+                    "endOffset": 104866
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4572,9 +4579,9 @@
                 "to": {
                     "startLine": 1357,
                     "startColumn": 4,
-                    "startOffset": 104872,
+                    "startOffset": 104871,
                     "endColumn": 111,
-                    "endOffset": 104979
+                    "endOffset": 104978
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4584,9 +4591,9 @@
                 "to": {
                     "startLine": 1358,
                     "startColumn": 4,
-                    "startOffset": 104984,
+                    "startOffset": 104983,
                     "endColumn": 99,
-                    "endOffset": 105079
+                    "endOffset": 105078
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4596,9 +4603,9 @@
                 "to": {
                     "startLine": 1359,
                     "startColumn": 4,
-                    "startOffset": 105084,
+                    "startOffset": 105083,
                     "endColumn": 115,
-                    "endOffset": 105195
+                    "endOffset": 105194
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4608,9 +4615,9 @@
                 "to": {
                     "startLine": 1360,
                     "startColumn": 4,
-                    "startOffset": 105200,
+                    "startOffset": 105199,
                     "endColumn": 95,
-                    "endOffset": 105291
+                    "endOffset": 105290
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4620,9 +4627,9 @@
                 "to": {
                     "startLine": 1361,
                     "startColumn": 4,
-                    "startOffset": 105296,
+                    "startOffset": 105295,
                     "endColumn": 111,
-                    "endOffset": 105403
+                    "endOffset": 105402
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4632,10 +4639,10 @@
                 "to": {
                     "startLine": 1362,
                     "startColumn": 4,
-                    "startOffset": 105408,
+                    "startOffset": 105407,
                     "endLine": 1363,
                     "endColumn": 12,
-                    "endOffset": 105543
+                    "endOffset": 105542
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4645,9 +4652,9 @@
                 "to": {
                     "startLine": 1364,
                     "startColumn": 4,
-                    "startOffset": 105548,
+                    "startOffset": 105547,
                     "endColumn": 135,
-                    "endOffset": 105679
+                    "endOffset": 105678
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4657,10 +4664,10 @@
                 "to": {
                     "startLine": 1365,
                     "startColumn": 4,
-                    "startOffset": 105684,
+                    "startOffset": 105683,
                     "endLine": 1366,
                     "endColumn": 12,
-                    "endOffset": 105843
+                    "endOffset": 105842
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4670,9 +4677,9 @@
                 "to": {
                     "startLine": 1367,
                     "startColumn": 4,
-                    "startOffset": 105848,
+                    "startOffset": 105847,
                     "endColumn": 129,
-                    "endOffset": 105973
+                    "endOffset": 105972
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4682,10 +4689,10 @@
                 "to": {
                     "startLine": 1368,
                     "startColumn": 4,
-                    "startOffset": 105978,
+                    "startOffset": 105977,
                     "endLine": 1369,
                     "endColumn": 12,
-                    "endOffset": 106131
+                    "endOffset": 106130
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4695,10 +4702,10 @@
                 "to": {
                     "startLine": 1370,
                     "startColumn": 4,
-                    "startOffset": 106136,
+                    "startOffset": 106135,
                     "endLine": 1371,
                     "endColumn": 12,
-                    "endOffset": 106281
+                    "endOffset": 106280
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4708,9 +4715,9 @@
                 "to": {
                     "startLine": 1372,
                     "startColumn": 4,
-                    "startOffset": 106286,
+                    "startOffset": 106285,
                     "endColumn": 140,
-                    "endOffset": 106422
+                    "endOffset": 106421
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4720,10 +4727,10 @@
                 "to": {
                     "startLine": 1373,
                     "startColumn": 4,
-                    "startOffset": 106427,
+                    "startOffset": 106426,
                     "endLine": 1374,
                     "endColumn": 12,
-                    "endOffset": 106566
+                    "endOffset": 106565
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4733,9 +4740,9 @@
                 "to": {
                     "startLine": 1375,
                     "startColumn": 4,
-                    "startOffset": 106571,
+                    "startOffset": 106570,
                     "endColumn": 134,
-                    "endOffset": 106701
+                    "endOffset": 106700
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4745,9 +4752,9 @@
                 "to": {
                     "startLine": 1376,
                     "startColumn": 4,
-                    "startOffset": 106706,
+                    "startOffset": 106705,
                     "endColumn": 111,
-                    "endOffset": 106813
+                    "endOffset": 106812
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4757,9 +4764,9 @@
                 "to": {
                     "startLine": 1377,
                     "startColumn": 4,
-                    "startOffset": 106818,
+                    "startOffset": 106817,
                     "endColumn": 127,
-                    "endOffset": 106941
+                    "endOffset": 106940
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4769,10 +4776,10 @@
                 "to": {
                     "startLine": 1378,
                     "startColumn": 4,
-                    "startOffset": 106946,
+                    "startOffset": 106945,
                     "endLine": 1379,
                     "endColumn": 12,
-                    "endOffset": 107077
+                    "endOffset": 107076
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4782,10 +4789,10 @@
                 "to": {
                     "startLine": 1380,
                     "startColumn": 4,
-                    "startOffset": 107082,
+                    "startOffset": 107081,
                     "endLine": 1381,
                     "endColumn": 12,
-                    "endOffset": 107219
+                    "endOffset": 107218
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4795,10 +4802,10 @@
                 "to": {
                     "startLine": 1382,
                     "startColumn": 4,
-                    "startOffset": 107224,
+                    "startOffset": 107223,
                     "endLine": 1383,
                     "endColumn": 12,
-                    "endOffset": 107361
+                    "endOffset": 107360
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4808,9 +4815,9 @@
                 "to": {
                     "startLine": 1384,
                     "startColumn": 4,
-                    "startOffset": 107366,
+                    "startOffset": 107365,
                     "endColumn": 111,
-                    "endOffset": 107473
+                    "endOffset": 107472
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4820,9 +4827,9 @@
                 "to": {
                     "startLine": 1385,
                     "startColumn": 4,
-                    "startOffset": 107478,
+                    "startOffset": 107477,
                     "endColumn": 139,
-                    "endOffset": 107613
+                    "endOffset": 107612
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4832,9 +4839,9 @@
                 "to": {
                     "startLine": 1386,
                     "startColumn": 4,
-                    "startOffset": 107618,
+                    "startOffset": 107617,
                     "endColumn": 67,
-                    "endOffset": 107681
+                    "endOffset": 107680
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4844,9 +4851,9 @@
                 "to": {
                     "startLine": 1387,
                     "startColumn": 4,
-                    "startOffset": 107686,
+                    "startOffset": 107685,
                     "endColumn": 72,
-                    "endOffset": 107754
+                    "endOffset": 107753
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4856,9 +4863,9 @@
                 "to": {
                     "startLine": 1388,
                     "startColumn": 4,
-                    "startOffset": 107759,
+                    "startOffset": 107758,
                     "endColumn": 73,
-                    "endOffset": 107828
+                    "endOffset": 107827
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4868,9 +4875,9 @@
                 "to": {
                     "startLine": 1389,
                     "startColumn": 4,
-                    "startOffset": 107833,
+                    "startOffset": 107832,
                     "endColumn": 72,
-                    "endOffset": 107901
+                    "endOffset": 107900
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4880,9 +4887,9 @@
                 "to": {
                     "startLine": 1390,
                     "startColumn": 4,
-                    "startOffset": 107906,
+                    "startOffset": 107905,
                     "endColumn": 73,
-                    "endOffset": 107975
+                    "endOffset": 107974
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4892,10 +4899,10 @@
                 "to": {
                     "startLine": 1391,
                     "startColumn": 4,
-                    "startOffset": 107980,
+                    "startOffset": 107979,
                     "endLine": 1392,
                     "endColumn": 12,
-                    "endOffset": 108121
+                    "endOffset": 108120
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4905,10 +4912,10 @@
                 "to": {
                     "startLine": 1393,
                     "startColumn": 4,
-                    "startOffset": 108126,
+                    "startOffset": 108125,
                     "endLine": 1394,
                     "endColumn": 12,
-                    "endOffset": 108265
+                    "endOffset": 108264
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4918,10 +4925,10 @@
                 "to": {
                     "startLine": 1395,
                     "startColumn": 4,
-                    "startOffset": 108270,
+                    "startOffset": 108269,
                     "endLine": 1396,
                     "endColumn": 12,
-                    "endOffset": 108403
+                    "endOffset": 108402
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4931,9 +4938,9 @@
                 "to": {
                     "startLine": 1397,
                     "startColumn": 4,
-                    "startOffset": 108408,
+                    "startOffset": 108407,
                     "endColumn": 65,
-                    "endOffset": 108469
+                    "endOffset": 108468
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4943,9 +4950,9 @@
                 "to": {
                     "startLine": 1398,
                     "startColumn": 4,
-                    "startOffset": 108474,
+                    "startOffset": 108473,
                     "endColumn": 89,
-                    "endOffset": 108559
+                    "endOffset": 108558
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4955,9 +4962,9 @@
                 "to": {
                     "startLine": 1399,
                     "startColumn": 4,
-                    "startOffset": 108564,
+                    "startOffset": 108563,
                     "endColumn": 75,
-                    "endOffset": 108635
+                    "endOffset": 108634
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4967,9 +4974,9 @@
                 "to": {
                     "startLine": 1400,
                     "startColumn": 4,
-                    "startOffset": 108640,
+                    "startOffset": 108639,
                     "endColumn": 103,
-                    "endOffset": 108739
+                    "endOffset": 108738
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4979,9 +4986,9 @@
                 "to": {
                     "startLine": 1401,
                     "startColumn": 4,
-                    "startOffset": 108744,
+                    "startOffset": 108743,
                     "endColumn": 89,
-                    "endOffset": 108829
+                    "endOffset": 108828
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -4991,9 +4998,9 @@
                 "to": {
                     "startLine": 1402,
                     "startColumn": 4,
-                    "startOffset": 108834,
+                    "startOffset": 108833,
                     "endColumn": 101,
-                    "endOffset": 108931
+                    "endOffset": 108930
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5003,9 +5010,9 @@
                 "to": {
                     "startLine": 1403,
                     "startColumn": 4,
-                    "startOffset": 108936,
+                    "startOffset": 108935,
                     "endColumn": 107,
-                    "endOffset": 109039
+                    "endOffset": 109038
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5015,9 +5022,9 @@
                 "to": {
                     "startLine": 1404,
                     "startColumn": 4,
-                    "startOffset": 109044,
+                    "startOffset": 109043,
                     "endColumn": 107,
-                    "endOffset": 109147
+                    "endOffset": 109146
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5027,9 +5034,9 @@
                 "to": {
                     "startLine": 1405,
                     "startColumn": 4,
-                    "startOffset": 109152,
+                    "startOffset": 109151,
                     "endColumn": 99,
-                    "endOffset": 109247
+                    "endOffset": 109246
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5039,9 +5046,9 @@
                 "to": {
                     "startLine": 1406,
                     "startColumn": 4,
-                    "startOffset": 109252,
+                    "startOffset": 109251,
                     "endColumn": 79,
-                    "endOffset": 109327
+                    "endOffset": 109326
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5051,9 +5058,9 @@
                 "to": {
                     "startLine": 1407,
                     "startColumn": 4,
-                    "startOffset": 109332,
+                    "startOffset": 109331,
                     "endColumn": 91,
-                    "endOffset": 109419
+                    "endOffset": 109418
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5063,9 +5070,9 @@
                 "to": {
                     "startLine": 1408,
                     "startColumn": 4,
-                    "startOffset": 109424,
+                    "startOffset": 109423,
                     "endColumn": 97,
-                    "endOffset": 109517
+                    "endOffset": 109516
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5075,10 +5082,10 @@
                 "to": {
                     "startLine": 1409,
                     "startColumn": 4,
-                    "startOffset": 109522,
+                    "startOffset": 109521,
                     "endLine": 1410,
                     "endColumn": 12,
-                    "endOffset": 109627
+                    "endOffset": 109626
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5088,9 +5095,9 @@
                 "to": {
                     "startLine": 1411,
                     "startColumn": 4,
-                    "startOffset": 109632,
+                    "startOffset": 109631,
                     "endColumn": 77,
-                    "endOffset": 109705
+                    "endOffset": 109704
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5100,9 +5107,9 @@
                 "to": {
                     "startLine": 1412,
                     "startColumn": 4,
-                    "startOffset": 109710,
+                    "startOffset": 109709,
                     "endColumn": 105,
-                    "endOffset": 109811
+                    "endOffset": 109810
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5112,9 +5119,9 @@
                 "to": {
                     "startLine": 1413,
                     "startColumn": 4,
-                    "startOffset": 109816,
+                    "startOffset": 109815,
                     "endColumn": 91,
-                    "endOffset": 109903
+                    "endOffset": 109902
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5124,9 +5131,9 @@
                 "to": {
                     "startLine": 1414,
                     "startColumn": 4,
-                    "startOffset": 109908,
+                    "startOffset": 109907,
                     "endColumn": 103,
-                    "endOffset": 110007
+                    "endOffset": 110006
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5136,9 +5143,9 @@
                 "to": {
                     "startLine": 1415,
                     "startColumn": 4,
-                    "startOffset": 110012,
+                    "startOffset": 110011,
                     "endColumn": 109,
-                    "endOffset": 110117
+                    "endOffset": 110116
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5148,10 +5155,10 @@
                 "to": {
                     "startLine": 1416,
                     "startColumn": 4,
-                    "startOffset": 110122,
+                    "startOffset": 110121,
                     "endLine": 1417,
                     "endColumn": 12,
-                    "endOffset": 110239
+                    "endOffset": 110238
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5161,10 +5168,10 @@
                 "to": {
                     "startLine": 1418,
                     "startColumn": 4,
-                    "startOffset": 110244,
+                    "startOffset": 110243,
                     "endLine": 1421,
                     "endColumn": 12,
-                    "endOffset": 110402
+                    "endOffset": 110401
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5174,10 +5181,10 @@
                 "to": {
                     "startLine": 1422,
                     "startColumn": 4,
-                    "startOffset": 110407,
+                    "startOffset": 110406,
                     "endLine": 1425,
                     "endColumn": 12,
-                    "endOffset": 110559
+                    "endOffset": 110558
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5187,9 +5194,9 @@
                 "to": {
                     "startLine": 1426,
                     "startColumn": 4,
-                    "startOffset": 110564,
+                    "startOffset": 110563,
                     "endColumn": 79,
-                    "endOffset": 110639
+                    "endOffset": 110638
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5199,9 +5206,9 @@
                 "to": {
                     "startLine": 1427,
                     "startColumn": 4,
-                    "startOffset": 110644,
+                    "startOffset": 110643,
                     "endColumn": 99,
-                    "endOffset": 110739
+                    "endOffset": 110738
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5211,9 +5218,9 @@
                 "to": {
                     "startLine": 1428,
                     "startColumn": 4,
-                    "startOffset": 110744,
+                    "startOffset": 110743,
                     "endColumn": 89,
-                    "endOffset": 110829
+                    "endOffset": 110828
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5223,9 +5230,9 @@
                 "to": {
                     "startLine": 1429,
                     "startColumn": 4,
-                    "startOffset": 110834,
+                    "startOffset": 110833,
                     "endColumn": 109,
-                    "endOffset": 110939
+                    "endOffset": 110938
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5235,9 +5242,9 @@
                 "to": {
                     "startLine": 1430,
                     "startColumn": 4,
-                    "startOffset": 110944,
+                    "startOffset": 110943,
                     "endColumn": 91,
-                    "endOffset": 111031
+                    "endOffset": 111030
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5247,10 +5254,10 @@
                 "to": {
                     "startLine": 1431,
                     "startColumn": 4,
-                    "startOffset": 111036,
+                    "startOffset": 111035,
                     "endLine": 1432,
                     "endColumn": 12,
-                    "endOffset": 111131
+                    "endOffset": 111130
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5260,10 +5267,10 @@
                 "to": {
                     "startLine": 1433,
                     "startColumn": 4,
-                    "startOffset": 111136,
+                    "startOffset": 111135,
                     "endLine": 1434,
                     "endColumn": 12,
-                    "endOffset": 111243
+                    "endOffset": 111242
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5273,10 +5280,10 @@
                 "to": {
                     "startLine": 1435,
                     "startColumn": 4,
-                    "startOffset": 111248,
+                    "startOffset": 111247,
                     "endLine": 1436,
                     "endColumn": 12,
-                    "endOffset": 111357
+                    "endOffset": 111356
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5286,10 +5293,10 @@
                 "to": {
                     "startLine": 1437,
                     "startColumn": 4,
-                    "startOffset": 111362,
+                    "startOffset": 111361,
                     "endLine": 1438,
                     "endColumn": 12,
-                    "endOffset": 111473
+                    "endOffset": 111472
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5299,10 +5306,10 @@
                 "to": {
                     "startLine": 1439,
                     "startColumn": 4,
-                    "startOffset": 111478,
+                    "startOffset": 111477,
                     "endLine": 1440,
                     "endColumn": 12,
-                    "endOffset": 111589
+                    "endOffset": 111588
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5312,9 +5319,9 @@
                 "to": {
                     "startLine": 1441,
                     "startColumn": 4,
-                    "startOffset": 111594,
+                    "startOffset": 111593,
                     "endColumn": 93,
-                    "endOffset": 111683
+                    "endOffset": 111682
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5324,9 +5331,9 @@
                 "to": {
                     "startLine": 1442,
                     "startColumn": 4,
-                    "startOffset": 111688,
+                    "startOffset": 111687,
                     "endColumn": 113,
-                    "endOffset": 111797
+                    "endOffset": 111796
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5336,9 +5343,9 @@
                 "to": {
                     "startLine": 1443,
                     "startColumn": 4,
-                    "startOffset": 111802,
+                    "startOffset": 111801,
                     "endColumn": 111,
-                    "endOffset": 111909
+                    "endOffset": 111908
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5348,10 +5355,10 @@
                 "to": {
                     "startLine": 1444,
                     "startColumn": 4,
-                    "startOffset": 111914,
+                    "startOffset": 111913,
                     "endLine": 1445,
                     "endColumn": 12,
-                    "endOffset": 112011
+                    "endOffset": 112010
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5361,10 +5368,10 @@
                 "to": {
                     "startLine": 1446,
                     "startColumn": 4,
-                    "startOffset": 112016,
+                    "startOffset": 112015,
                     "endLine": 1447,
                     "endColumn": 12,
-                    "endOffset": 112131
+                    "endOffset": 112130
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5374,10 +5381,10 @@
                 "to": {
                     "startLine": 1448,
                     "startColumn": 4,
-                    "startOffset": 112136,
+                    "startOffset": 112135,
                     "endLine": 1449,
                     "endColumn": 12,
-                    "endOffset": 112253
+                    "endOffset": 112252
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5387,9 +5394,9 @@
                 "to": {
                     "startLine": 1450,
                     "startColumn": 4,
-                    "startOffset": 112258,
+                    "startOffset": 112257,
                     "endColumn": 81,
-                    "endOffset": 112335
+                    "endOffset": 112334
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5399,9 +5406,9 @@
                 "to": {
                     "startLine": 1451,
                     "startColumn": 4,
-                    "startOffset": 112340,
+                    "startOffset": 112339,
                     "endColumn": 103,
-                    "endOffset": 112439
+                    "endOffset": 112438
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5411,9 +5418,9 @@
                 "to": {
                     "startLine": 1452,
                     "startColumn": 4,
-                    "startOffset": 112444,
+                    "startOffset": 112443,
                     "endColumn": 119,
-                    "endOffset": 112559
+                    "endOffset": 112558
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5423,9 +5430,9 @@
                 "to": {
                     "startLine": 1453,
                     "startColumn": 4,
-                    "startOffset": 112564,
+                    "startOffset": 112563,
                     "endColumn": 125,
-                    "endOffset": 112685
+                    "endOffset": 112684
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5435,9 +5442,9 @@
                 "to": {
                     "startLine": 1454,
                     "startColumn": 4,
-                    "startOffset": 112690,
+                    "startOffset": 112689,
                     "endColumn": 97,
-                    "endOffset": 112783
+                    "endOffset": 112782
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5447,9 +5454,9 @@
                 "to": {
                     "startLine": 1455,
                     "startColumn": 4,
-                    "startOffset": 112788,
+                    "startOffset": 112787,
                     "endColumn": 93,
-                    "endOffset": 112877
+                    "endOffset": 112876
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5459,9 +5466,9 @@
                 "to": {
                     "startLine": 1456,
                     "startColumn": 4,
-                    "startOffset": 112882,
+                    "startOffset": 112881,
                     "endColumn": 87,
-                    "endOffset": 112965
+                    "endOffset": 112964
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5471,9 +5478,9 @@
                 "to": {
                     "startLine": 1457,
                     "startColumn": 4,
-                    "startOffset": 112970,
+                    "startOffset": 112969,
                     "endColumn": 111,
-                    "endOffset": 113077
+                    "endOffset": 113076
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5483,9 +5490,9 @@
                 "to": {
                     "startLine": 1458,
                     "startColumn": 4,
-                    "startOffset": 113082,
+                    "startOffset": 113081,
                     "endColumn": 115,
-                    "endOffset": 113193
+                    "endOffset": 113192
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5495,9 +5502,9 @@
                 "to": {
                     "startLine": 1459,
                     "startColumn": 4,
-                    "startOffset": 113198,
+                    "startOffset": 113197,
                     "endColumn": 121,
-                    "endOffset": 113315
+                    "endOffset": 113314
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5507,9 +5514,9 @@
                 "to": {
                     "startLine": 1460,
                     "startColumn": 4,
-                    "startOffset": 113320,
+                    "startOffset": 113319,
                     "endColumn": 111,
-                    "endOffset": 113427
+                    "endOffset": 113426
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5519,10 +5526,10 @@
                 "to": {
                     "startLine": 1461,
                     "startColumn": 4,
-                    "startOffset": 113432,
+                    "startOffset": 113431,
                     "endLine": 1463,
                     "endColumn": 12,
-                    "endOffset": 113602
+                    "endOffset": 113601
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5532,9 +5539,9 @@
                 "to": {
                     "startLine": 1464,
                     "startColumn": 4,
-                    "startOffset": 113607,
+                    "startOffset": 113606,
                     "endColumn": 115,
-                    "endOffset": 113718
+                    "endOffset": 113717
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5544,9 +5551,9 @@
                 "to": {
                     "startLine": 1465,
                     "startColumn": 4,
-                    "startOffset": 113723,
+                    "startOffset": 113722,
                     "endColumn": 85,
-                    "endOffset": 113804
+                    "endOffset": 113803
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5556,9 +5563,9 @@
                 "to": {
                     "startLine": 1466,
                     "startColumn": 4,
-                    "startOffset": 113809,
+                    "startOffset": 113808,
                     "endColumn": 91,
-                    "endOffset": 113896
+                    "endOffset": 113895
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5568,10 +5575,10 @@
                 "to": {
                     "startLine": 1467,
                     "startColumn": 4,
-                    "startOffset": 113901,
+                    "startOffset": 113900,
                     "endLine": 1468,
                     "endColumn": 12,
-                    "endOffset": 114008
+                    "endOffset": 114007
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5581,10 +5588,10 @@
                 "to": {
                     "startLine": 1469,
                     "startColumn": 4,
-                    "startOffset": 114013,
+                    "startOffset": 114012,
                     "endLine": 1470,
                     "endColumn": 12,
-                    "endOffset": 114132
+                    "endOffset": 114131
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5594,9 +5601,9 @@
                 "to": {
                     "startLine": 1471,
                     "startColumn": 4,
-                    "startOffset": 114137,
+                    "startOffset": 114136,
                     "endColumn": 66,
-                    "endOffset": 114199
+                    "endOffset": 114198
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5606,10 +5613,10 @@
                 "to": {
                     "startLine": 1472,
                     "startColumn": 4,
-                    "startOffset": 114204,
+                    "startOffset": 114203,
                     "endLine": 1473,
                     "endColumn": 12,
-                    "endOffset": 114325
+                    "endOffset": 114324
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5619,9 +5626,9 @@
                 "to": {
                     "startLine": 1474,
                     "startColumn": 4,
-                    "startOffset": 114330,
+                    "startOffset": 114329,
                     "endColumn": 67,
-                    "endOffset": 114393
+                    "endOffset": 114392
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5631,10 +5638,10 @@
                 "to": {
                     "startLine": 1475,
                     "startColumn": 4,
-                    "startOffset": 114398,
+                    "startOffset": 114397,
                     "endLine": 1476,
                     "endColumn": 12,
-                    "endOffset": 114521
+                    "endOffset": 114520
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5644,10 +5651,10 @@
                 "to": {
                     "startLine": 1477,
                     "startColumn": 4,
-                    "startOffset": 114526,
+                    "startOffset": 114525,
                     "endLine": 1478,
                     "endColumn": 12,
-                    "endOffset": 114665
+                    "endOffset": 114664
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5657,10 +5664,10 @@
                 "to": {
                     "startLine": 1479,
                     "startColumn": 4,
-                    "startOffset": 114670,
+                    "startOffset": 114669,
                     "endLine": 1480,
                     "endColumn": 12,
-                    "endOffset": 114793
+                    "endOffset": 114792
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5670,9 +5677,9 @@
                 "to": {
                     "startLine": 1481,
                     "startColumn": 4,
-                    "startOffset": 114798,
+                    "startOffset": 114797,
                     "endColumn": 68,
-                    "endOffset": 114862
+                    "endOffset": 114861
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5682,9 +5689,9 @@
                 "to": {
                     "startLine": 1482,
                     "startColumn": 4,
-                    "startOffset": 114867,
+                    "startOffset": 114866,
                     "endColumn": 94,
-                    "endOffset": 114957
+                    "endOffset": 114956
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5694,9 +5701,9 @@
                 "to": {
                     "startLine": 1483,
                     "startColumn": 4,
-                    "startOffset": 114962,
+                    "startOffset": 114961,
                     "endColumn": 114,
-                    "endOffset": 115072
+                    "endOffset": 115071
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5706,9 +5713,9 @@
                 "to": {
                     "startLine": 1484,
                     "startColumn": 4,
-                    "startOffset": 115077,
+                    "startOffset": 115076,
                     "endColumn": 112,
-                    "endOffset": 115185
+                    "endOffset": 115184
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5718,9 +5725,9 @@
                 "to": {
                     "startLine": 1485,
                     "startColumn": 4,
-                    "startOffset": 115190,
+                    "startOffset": 115189,
                     "endColumn": 98,
-                    "endOffset": 115284
+                    "endOffset": 115283
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5730,9 +5737,9 @@
                 "to": {
                     "startLine": 1486,
                     "startColumn": 4,
-                    "startOffset": 115289,
+                    "startOffset": 115288,
                     "endColumn": 108,
-                    "endOffset": 115393
+                    "endOffset": 115392
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5742,9 +5749,9 @@
                 "to": {
                     "startLine": 1487,
                     "startColumn": 4,
-                    "startOffset": 115398,
+                    "startOffset": 115397,
                     "endColumn": 110,
-                    "endOffset": 115504
+                    "endOffset": 115503
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5754,9 +5761,9 @@
                 "to": {
                     "startLine": 1488,
                     "startColumn": 4,
-                    "startOffset": 115509,
+                    "startOffset": 115508,
                     "endColumn": 110,
-                    "endOffset": 115615
+                    "endOffset": 115614
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5766,9 +5773,9 @@
                 "to": {
                     "startLine": 1489,
                     "startColumn": 4,
-                    "startOffset": 115620,
+                    "startOffset": 115619,
                     "endColumn": 100,
-                    "endOffset": 115716
+                    "endOffset": 115715
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5778,9 +5785,9 @@
                 "to": {
                     "startLine": 1490,
                     "startColumn": 4,
-                    "startOffset": 115721,
+                    "startOffset": 115720,
                     "endColumn": 104,
-                    "endOffset": 115821
+                    "endOffset": 115820
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5790,10 +5797,10 @@
                 "to": {
                     "startLine": 1491,
                     "startColumn": 4,
-                    "startOffset": 115826,
+                    "startOffset": 115825,
                     "endLine": 1492,
                     "endColumn": 12,
-                    "endOffset": 115933
+                    "endOffset": 115932
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5803,10 +5810,10 @@
                 "to": {
                     "startLine": 1493,
                     "startColumn": 4,
-                    "startOffset": 115938,
+                    "startOffset": 115937,
                     "endLine": 1494,
                     "endColumn": 12,
-                    "endOffset": 116063
+                    "endOffset": 116062
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5816,9 +5823,9 @@
                 "to": {
                     "startLine": 1495,
                     "startColumn": 4,
-                    "startOffset": 116068,
+                    "startOffset": 116067,
                     "endColumn": 90,
-                    "endOffset": 116154
+                    "endOffset": 116153
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5828,9 +5835,9 @@
                 "to": {
                     "startLine": 1496,
                     "startColumn": 4,
-                    "startOffset": 116159,
+                    "startOffset": 116158,
                     "endColumn": 122,
-                    "endOffset": 116277
+                    "endOffset": 116276
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5840,10 +5847,10 @@
                 "to": {
                     "startLine": 1497,
                     "startColumn": 4,
-                    "startOffset": 116282,
+                    "startOffset": 116281,
                     "endLine": 1498,
                     "endColumn": 12,
-                    "endOffset": 116389
+                    "endOffset": 116388
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5853,9 +5860,9 @@
                 "to": {
                     "startLine": 1499,
                     "startColumn": 4,
-                    "startOffset": 116394,
+                    "startOffset": 116393,
                     "endColumn": 85,
-                    "endOffset": 116475
+                    "endOffset": 116474
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5865,9 +5872,9 @@
                 "to": {
                     "startLine": 1500,
                     "startColumn": 4,
-                    "startOffset": 116480,
+                    "startOffset": 116479,
                     "endColumn": 103,
-                    "endOffset": 116579
+                    "endOffset": 116578
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5877,10 +5884,10 @@
                 "to": {
                     "startLine": 1501,
                     "startColumn": 4,
-                    "startOffset": 116584,
+                    "startOffset": 116583,
                     "endLine": 1502,
                     "endColumn": 12,
-                    "endOffset": 116687
+                    "endOffset": 116686
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5890,10 +5897,10 @@
                 "to": {
                     "startLine": 1503,
                     "startColumn": 4,
-                    "startOffset": 116692,
+                    "startOffset": 116691,
                     "endLine": 1504,
                     "endColumn": 12,
-                    "endOffset": 116787
+                    "endOffset": 116786
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5903,10 +5910,10 @@
                 "to": {
                     "startLine": 1505,
                     "startColumn": 4,
-                    "startOffset": 116792,
+                    "startOffset": 116791,
                     "endLine": 1506,
                     "endColumn": 12,
-                    "endOffset": 116905
+                    "endOffset": 116904
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5916,10 +5923,10 @@
                 "to": {
                     "startLine": 1507,
                     "startColumn": 4,
-                    "startOffset": 116910,
+                    "startOffset": 116909,
                     "endLine": 1508,
                     "endColumn": 12,
-                    "endOffset": 117009
+                    "endOffset": 117008
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5929,10 +5936,10 @@
                 "to": {
                     "startLine": 1509,
                     "startColumn": 4,
-                    "startOffset": 117014,
+                    "startOffset": 117013,
                     "endLine": 1510,
                     "endColumn": 12,
-                    "endOffset": 117113
+                    "endOffset": 117112
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5942,10 +5949,10 @@
                 "to": {
                     "startLine": 1511,
                     "startColumn": 4,
-                    "startOffset": 117118,
+                    "startOffset": 117117,
                     "endLine": 1512,
                     "endColumn": 12,
-                    "endOffset": 117239
+                    "endOffset": 117238
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5955,9 +5962,9 @@
                 "to": {
                     "startLine": 1513,
                     "startColumn": 4,
-                    "startOffset": 117244,
+                    "startOffset": 117243,
                     "endColumn": 87,
-                    "endOffset": 117327
+                    "endOffset": 117326
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5967,9 +5974,9 @@
                 "to": {
                     "startLine": 1514,
                     "startColumn": 4,
-                    "startOffset": 117332,
+                    "startOffset": 117331,
                     "endColumn": 107,
-                    "endOffset": 117435
+                    "endOffset": 117434
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5979,9 +5986,9 @@
                 "to": {
                     "startLine": 1515,
                     "startColumn": 4,
-                    "startOffset": 117440,
+                    "startOffset": 117439,
                     "endColumn": 99,
-                    "endOffset": 117535
+                    "endOffset": 117534
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -5991,9 +5998,9 @@
                 "to": {
                     "startLine": 1516,
                     "startColumn": 4,
-                    "startOffset": 117540,
+                    "startOffset": 117539,
                     "endColumn": 89,
-                    "endOffset": 117625
+                    "endOffset": 117624
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -6003,9 +6010,9 @@
                 "to": {
                     "startLine": 1517,
                     "startColumn": 4,
-                    "startOffset": 117630,
+                    "startOffset": 117629,
                     "endColumn": 109,
-                    "endOffset": 117735
+                    "endOffset": 117734
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -6015,9 +6022,9 @@
                 "to": {
                     "startLine": 1518,
                     "startColumn": 4,
-                    "startOffset": 117740,
+                    "startOffset": 117739,
                     "endColumn": 83,
-                    "endOffset": 117819
+                    "endOffset": 117818
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -6027,9 +6034,9 @@
                 "to": {
                     "startLine": 1519,
                     "startColumn": 4,
-                    "startOffset": 117824,
+                    "startOffset": 117823,
                     "endColumn": 83,
-                    "endOffset": 117903
+                    "endOffset": 117902
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -6039,9 +6046,9 @@
                 "to": {
                     "startLine": 1520,
                     "startColumn": 4,
-                    "startOffset": 117908,
+                    "startOffset": 117907,
                     "endColumn": 53,
-                    "endOffset": 117957
+                    "endOffset": 117956
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -6051,9 +6058,9 @@
                 "to": {
                     "startLine": 1521,
                     "startColumn": 4,
-                    "startOffset": 117962,
+                    "startOffset": 117961,
                     "endColumn": 63,
-                    "endOffset": 118021
+                    "endOffset": 118020
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -6063,9 +6070,9 @@
                 "to": {
                     "startLine": 1522,
                     "startColumn": 4,
-                    "startOffset": 118026,
+                    "startOffset": 118025,
                     "endColumn": 105,
-                    "endOffset": 118127
+                    "endOffset": 118126
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -6075,9 +6082,9 @@
                 "to": {
                     "startLine": 1523,
                     "startColumn": 4,
-                    "startOffset": 118132,
+                    "startOffset": 118131,
                     "endColumn": 109,
-                    "endOffset": 118237
+                    "endOffset": 118236
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -6087,9 +6094,9 @@
                 "to": {
                     "startLine": 1524,
                     "startColumn": 4,
-                    "startOffset": 118242,
+                    "startOffset": 118241,
                     "endColumn": 83,
-                    "endOffset": 118321
+                    "endOffset": 118320
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"
@@ -6099,9 +6106,9 @@
                 "to": {
                     "startLine": 1525,
                     "startColumn": 4,
-                    "startOffset": 118326,
+                    "startOffset": 118325,
                     "endColumn": 119,
-                    "endOffset": 118441
+                    "endOffset": 118440
                 },
                 "from": {
                     "file": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml"

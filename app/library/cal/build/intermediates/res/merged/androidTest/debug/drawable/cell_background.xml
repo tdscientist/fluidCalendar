@@ -2,5 +2,5 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:p-v="http://schemas.android.com/apk/res-auto">
     <item android:drawable="@drawable/cell_transparent_background" p-v:state_date_regular="true" />
     <item android:drawable="@drawable/circular_background" p-v:state_date_today="true" />
-    <item android:drawable="@drawable/cell_blue_bg" p-v:state_date_selected="true" />
+    <item android:drawable="@drawable/cell_selected_blue" p-v:state_date_selected="true" />
 </selector>

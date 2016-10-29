@@ -19,14 +19,6 @@ public class CalendarEvent implements Event {
     private String title;
     private String id;
 
-    public CalendarEvent() {
-
-    }
-
-    public CalendarEvent(int color) {
-        this.color = color;
-    }
-
     public CalendarEvent(int color, String title, String id) {
         this.color = color;
         this.title = title;

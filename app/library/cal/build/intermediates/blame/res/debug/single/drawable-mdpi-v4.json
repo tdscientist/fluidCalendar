@@ -76,12 +76,12 @@
         "source": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png",
-        "source": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
-    },
-    {
         "merged": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_image_navigate_before.png",
         "source": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/src/main/res/drawable-mdpi/ic_action_image_navigate_before.png"
+    },
+    {
+        "merged": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_focused_holo.9.png",
@@ -108,12 +108,12 @@
         "source": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_image_navigate_next.png",
         "source": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/src/main/res/drawable-mdpi/ic_action_image_navigate_next.png"
+    },
+    {
+        "merged": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png",

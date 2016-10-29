@@ -24,6 +24,10 @@
         "source": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_slide_out_top.xml"
     },
     {
+        "merged": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/res/merged/release/anim/date_cell_zoomin.xml",
+        "source": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/src/main/res/anim/date_cell_zoomin.xml"
+    },
+    {
         "merged": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
         "source": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_slide_in_top.xml"
     },
@@ -32,11 +36,11 @@
         "source": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_fade_out.xml"
     },
     {
-        "merged": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_slide_in_bottom.xml"
-    },
-    {
         "merged": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
         "source": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/Scientist/Android Development/ScientistCalendar/app/library/cal/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_slide_in_bottom.xml"
     }
 ]

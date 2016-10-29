@@ -3,13 +3,16 @@ package com.p_v.flexiblecalendar;
 import android.content.Context;
 import android.graphics.Color;
 import android.graphics.Typeface;
-import android.util.Log;
 import android.util.MonthDisplayHelper;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.animation.Animation;
+import android.view.animation.AnimationUtils;
+import android.view.animation.BounceInterpolator;
 import android.widget.BaseAdapter;
 
+import com.CalendarBounceInterpolator;
 import com.p_v.flexiblecalendar.entity.SelectedDateItem;
 import com.p_v.flexiblecalendar.view.BaseCellView;
 import com.p_v.flexiblecalendar.entity.Event;
@@ -48,7 +51,7 @@ class FlexibleCalendarGridAdapter extends BaseAdapter {
     private boolean disableAutoDateSelection;
 
     private static final int SIX_WEEK_DAY_COUNT = 42;
-
+    CalendarBounceInterpolator bounceInterpolator = new CalendarBounceInterpolator(0.18, 10);
 
     public FlexibleCalendarGridAdapter(Context context, int year, int month,
                                        boolean showDatesOutsideMonth, boolean decorateDatesOutsideMonth, int startDayOfTheWeek,
@@ -66,6 +69,7 @@ class FlexibleCalendarGridAdapter extends BaseAdapter {
         this.monthDisplayHelper = new MonthDisplayHelper(year, month, startDayOfTheWeek);
         this.calendar = FlexibleCalendarHelper.getLocalizedCalendar(context);
     }
+
 
     @Override
     public int getCount() {
@@ -202,12 +206,18 @@ class FlexibleCalendarGridAdapter extends BaseAdapter {
                     cellView.addState(BaseCellView.STATE_SELECTED);
                     cellView.setTextColor(Color.WHITE);
                     cellView.setTypeface(Typeface.DEFAULT_BOLD);
+                    Animation animSelected = AnimationUtils.loadAnimation(context, R.anim.date_cell_zoomin);
+                    animSelected.setInterpolator(bounceInterpolator);
+                    cellView.setAnimation(animSelected);
                     break;
                 case BaseCellView.SELECTED_WEEKEND:
                     cellView.addState(BaseCellView.STATE_SELECTED_WEEKEND);
                     cellView.setTextColor(Color.WHITE);
                     cellView.setTypeface(Typeface.DEFAULT_BOLD);
                     cellView.setBackgroundResource(R.drawable.cell_selected_green);
+                    Animation animSelectedWeekend = AnimationUtils.loadAnimation(context, R.anim.date_cell_zoomin);
+                    animSelectedWeekend.setInterpolator(bounceInterpolator);
+                    cellView.setAnimation(animSelectedWeekend);
                     break;
                 case BaseCellView.WEEKEND:
                     cellView.addState(BaseCellView.STATE_WEEKEND);

@@ -17,6 +17,16 @@ import java.util.Set;
 /**
  * @author p-v
  */
+
+
+/**
+ * Rewritten
+ * Copyright (c) 2016 Adediji Adeyinka(tdscientist)
+ * All rights reserved
+ * Created on 28-Oct-2016
+ */
+
+
 public abstract class BaseCellView extends TextView {
 
     public static final int TODAY = 0;
@@ -27,7 +37,7 @@ public abstract class BaseCellView extends TextView {
     public static final int WEEKEND = 6;
     public static final int SELECTED_WEEKEND = 7;
 
-    @IntDef({TODAY, SELECTED, REGULAR, SELECTED_TODAY, OUTSIDE_MONTH, WEEKEND,SELECTED_WEEKEND})
+    @IntDef({TODAY, SELECTED, REGULAR, SELECTED_TODAY, OUTSIDE_MONTH, WEEKEND, SELECTED_WEEKEND})
     @Retention(RetentionPolicy.SOURCE)
     public @interface CellType {
     }
