@@ -193,7 +193,9 @@ public class CalendarActivityFragment extends Fragment implements FlexibleCalend
         setTappedDayOnText(day, cal);
 
         calendarEventAdapter.notifyDataSetChanged();
-
+        boolean isWeekend = cal.get(Calendar.DAY_OF_WEEK) == Calendar.SUNDAY ||
+                cal.get(Calendar.DAY_OF_WEEK) == Calendar.SATURDAY;
+        ((CalendarActivity) getActivity()).setStatusBarColor(isWeekend ? "green" : "blue");
     }
 
     private void setTappedDateOnText(int year, int month, int day) {

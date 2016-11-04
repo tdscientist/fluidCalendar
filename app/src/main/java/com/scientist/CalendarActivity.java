@@ -27,5 +27,21 @@ public class CalendarActivity extends AppCompatActivity {
 
     }
 
+    public void setStatusBarColor(String color) {
+        if (color.equals("blue")) {
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+                getWindow().setStatusBarColor(getResources().getColor(R.color.calendar_selected_date_blue));
+            } else if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
+                getWindow().setStatusBarColor(getResources().getColor(R.color.calendar_selected_date_blue, null));
+            }
+        } else {
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+                getWindow().setStatusBarColor(getResources().getColor(R.color.calendar_selected_date_green));
+            } else if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
+                getWindow().setStatusBarColor(getResources().getColor(R.color.calendar_selected_date_green, null));
+            }
+        }
+    }
+
 
 }
