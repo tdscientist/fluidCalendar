@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FlexibleCalendar</string>
+    <string name="event_title">Event description</string>
 </resources>

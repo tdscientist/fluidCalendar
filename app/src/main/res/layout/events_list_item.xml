@@ -2,49 +2,82 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/calendar_selected_date_blue"
     android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/ring"
+        android:layout_width="13dp"
+        android:layout_height="13dp"
+        android:layout_marginLeft="7dp"
+        android:layout_marginTop="6dp"
+        android:background="@drawable/ring_blue" />
 
 
     <TextView
-        android:id="@+id/header"
+        android:id="@+id/title"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="25dp"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@id/ring"
         android:ellipsize="end"
-        android:maxLines="2"
+        android:gravity="center_vertical"
+        android:maxLines="1"
+        android:singleLine="true"
         android:text="Finish this app and publish it"
         android:textColor="@android:color/white"
         android:textSize="17dp"
         android:textStyle="bold" />
 
+    <ImageView
+        android:id="@+id/marker"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:layout_below="@id/title"
+        android:layout_marginLeft="26dp"
+        android:layout_marginTop="6dp"
+        android:background="@drawable/ic_action_communication_location_on" />
+
     <TextView
         android:id="@+id/location"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/header"
-        android:drawableLeft="@drawable/ic_action_communication_location_on"
+        android:layout_height="20dp"
+        android:layout_below="@id/title"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="3.5dp"
+        android:layout_toRightOf="@id/marker"
         android:ellipsize="end"
         android:gravity="center_vertical"
         android:maxLines="1"
         android:singleLine="true"
         android:text="San Fransico"
         android:textColor="@android:color/white"
-        android:textSize="15dp"
+        android:textSize="14dp"
         android:textStyle="normal" />
+
+    <ImageView
+        android:id="@+id/clock"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:layout_below="@id/marker"
+        android:layout_marginLeft="26dp"
+        android:layout_marginTop="6dp"
+        android:background="@drawable/ic_action_device_access_time" />
 
     <TextView
         android:id="@+id/time"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="20dp"
         android:layout_below="@id/location"
-        android:drawableLeft="@drawable/ic_action_device_access_time"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="1dp"
+        android:layout_toRightOf="@id/clock"
         android:ellipsize="end"
         android:gravity="center_vertical"
         android:maxLines="1"
         android:singleLine="true"
         android:text="11:30 - 12:30"
         android:textColor="@android:color/white"
-        android:textSize="15dp"
+        android:textSize="14dp"
         android:textStyle="normal" />
 
 

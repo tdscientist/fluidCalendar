@@ -1,6 +1,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:support="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mother"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/calendar_selected_date_blue"
@@ -20,41 +21,68 @@
         android:layout_width="match_parent"
         android:layout_height="15dp"
         android:layout_below="@+id/calendar_view"
-        android:background="@drawable/bottom_shadow" />
-
-    <android.support.design.widget.FloatingActionButton
-        android:id="@+id/fab"
-        android:layout_width="50dp"
-        android:layout_height="50dp"
-        android:layout_alignParentRight="true"
-        android:layout_below="@id/shadow"
-        android:layout_marginRight="16dp"
-        android:layout_marginTop="-40dp"
-        android:background="@color/app_accent"
-        android:src="@drawable/ic_action_content_add"
-        support:backgroundTint="@color/app_accent"
-        support:rippleColor="@color/app_light_blue" />
+        android:layout_marginTop="-15dp"
+        android:background="@drawable/top_shadow" />
 
 
-    <FrameLayout
+    <RelativeLayout
+        android:id="@+id/event_details"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@id/shadow">
 
-
-        <DigitalClock
-            android:id="@+id/time"
+        <TextView
+            android:id="@+id/add"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:layout_marginTop="-10dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/selector_add_event"
+            android:padding="10dp"
+            android:text="@string/add_new"
             android:textColor="@android:color/white"
-            android:textSize="50dp"
-
+            android:textSize="14dp"
             android:textStyle="bold" />
 
+        <TextView
+            android:id="@+id/day"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-3dp"
+            android:padding="10dp"
+            android:text="TODAY"
+            android:textColor="@android:color/white"
+            android:textSize="18dp" />
 
-    </FrameLayout>
+        <TextView
+            android:id="@+id/date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/day"
+            android:layout_marginTop="-23dp"
+            android:padding="10dp"
+            android:text="03/10/2016"
+            android:textColor="@android:color/white"
+            android:textSize="13dp" />
+
+        <TextView
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="13dp"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/dotted_line"
+            android:layerType="software" />
+
+        <ListView
+            android:id="@+id/listView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="60dp"
+            android:divider="@android:color/transparent" />
+
+
+    </RelativeLayout>
 
 
 </RelativeLayout>

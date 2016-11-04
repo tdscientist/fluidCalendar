@@ -3,6 +3,7 @@
     <color name="app_arrow_grey">#8B8B8B</color>
     <color name="app_black">#000000</color>
     <color name="app_light_blue">#6c94befd</color>
+    <color name="app_light_grey">#64000000</color>
     <color name="app_week_title_grey">#626262</color>
     <color name="calendar_selected_date_blue">#266CD2</color>
     <color name="calendar_selected_date_green">#4FC94C</color>
@@ -11,4 +12,6 @@
     <declare-styleable name="CircularEventCellView"><attr format="dimension" name="event_radius"/><attr format="dimension" name="event_circle_padding"/></declare-styleable>
     <declare-styleable name="FlexibleCalendarView"><attr format="integer" name="startDisplayYear"/><attr format="integer" name="startDisplayMonth"/><attr format="dimension" name="weekDayHorizontalSpacing"/><attr format="dimension" name="weekDayVerticalSpacing"/><attr format="dimension" name="monthDayHorizontalSpacing"/><attr format="dimension" name="monthDayVerticalSpacing"/><attr format="reference" name="weekViewBackground"/><attr format="reference" name="monthViewBackground"/><attr format="boolean" name="showDatesOutsideMonth"/><attr format="boolean" name="decorateDatesOutsideMonth"/><attr format="boolean" name="disableAutoDateSelection"/><attr format="enum" name="startDayOfTheWeek"><enum name="SUNDAY" value="1"/><enum name="MONDAY" value="2"/><enum name="TUESDAY" value="3"/><enum name="WEDNESDAY" value="4"/><enum name="THURSDAY" value="5"/><enum name="FRIDAY" value="6"/><enum name="SATURDAY" value="7"/></attr></declare-styleable>
     <string name="app_name">FlexibleCalendar</string>
+    <string name="event_title">Event description</string>
+    <style name="TextAppearence.App.TextInputLayout" parent="@android:style/TextAppearance"/>
 </resources>

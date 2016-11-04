@@ -7,4 +7,5 @@
     <color name="app_light_blue">#6c94befd</color>
     <color name="app_arrow_grey">#8B8B8B</color>
     <color name="app_week_title_grey">#626262</color>
+    <color name="app_light_grey">#64000000</color>
 </resources>

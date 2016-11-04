@@ -18,11 +18,16 @@ public class CalendarEvent implements Event {
     private int color;
     private String title;
     private String id;
+    private String place;
+    private String time;
 
-    public CalendarEvent(int color, String title, String id) {
+
+    public CalendarEvent(int color, String title, String id, String place, String time) {
         this.color = color;
         this.title = title;
         this.id = id;
+        this.place = place;
+        this.time = time;
     }
 
     public void setColor(int color) {
@@ -43,4 +48,16 @@ public class CalendarEvent implements Event {
     public String getEventId() {
         return id;
     }
+
+    @Override
+    public String getEventPlace() {
+        return place;
+    }
+
+    @Override
+    public String getEventTime() {
+        return time;
+    }
+
+
 }

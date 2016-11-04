@@ -19,6 +19,7 @@ public final class R {
         public static final int abc_slide_in_top=0x7f040007;
         public static final int abc_slide_out_bottom=0x7f040008;
         public static final int abc_slide_out_top=0x7f040009;
+        public static final int date_cell_zoomin=0x7f04000a;
     }
     public static final class attr {
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
@@ -1826,12 +1827,15 @@ containing a value of this type.
         public static final int cell_selected_green=0x7f02004e;
         public static final int cell_transparent_background=0x7f02004f;
         public static final int circular_background=0x7f020050;
-        public static final int ic_action_image_navigate_before=0x7f020051;
-        public static final int ic_action_image_navigate_next=0x7f020052;
-        public static final int notification_template_icon_bg=0x7f020056;
-        public static final int selector_action_bar_controls=0x7f020053;
-        public static final int selector_action_bar_controls_normal=0x7f020054;
-        public static final int selector_action_bar_controls_pressed=0x7f020055;
+        public static final int dotted_line=0x7f020051;
+        public static final int ic_action_image_navigate_before=0x7f020052;
+        public static final int ic_action_image_navigate_next=0x7f020053;
+        public static final int notification_template_icon_bg=0x7f020059;
+        public static final int ring_blue=0x7f020054;
+        public static final int ring_green=0x7f020055;
+        public static final int selector_action_bar_controls=0x7f020056;
+        public static final int selector_action_bar_controls_normal=0x7f020057;
+        public static final int selector_action_bar_controls_pressed=0x7f020058;
     }
     public static final class id {
         public static final int FRIDAY=0x7f0b001a;

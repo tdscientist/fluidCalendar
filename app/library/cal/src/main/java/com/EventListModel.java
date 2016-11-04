@@ -14,15 +14,20 @@ public class EventListModel {
     private String title;
     private String id;
     private int color;
+    private String place;
+    private String time;
 
 
-    public EventListModel(boolean year, boolean month, boolean day, String title, String id, int color) {
+    public EventListModel(boolean year, boolean month, boolean day, String title, String id, int color,
+                          String place, String time) {
         this.year = year;
         this.month = month;
         this.day = day;
         this.title = title;
         this.id = id;
         this.color = color;
+        this.place = place;
+        this.time = time;
     }
 
     public boolean getYear() {
@@ -47,5 +52,13 @@ public class EventListModel {
 
     public int getColor() {
         return color;
+    }
+
+    public String getPlace() {
+        return place;
+    }
+
+    public String getTime() {
+        return time;
     }
 }

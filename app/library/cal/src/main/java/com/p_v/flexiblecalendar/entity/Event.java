@@ -9,4 +9,8 @@ public interface Event {
     String getEventTitle();
 
     String getEventId();
+
+    String getEventPlace();
+
+    String getEventTime();
 }
