@@ -111,8 +111,6 @@ public class CalendarActivityFragment extends Fragment implements FlexibleCalend
         int day = cal.get(Calendar.DAY_OF_MONTH);
         today = day;
         thisWeek = cal.get(Calendar.WEEK_OF_YEAR);
-        setTappedDateOnText(year, month, day);
-        setTappedDayOnText(day, cal);
 
         eventDisplayModel = new ArrayList<>();
         calendarEventAdapter = new CalendarEventAdapter(getContext(), eventDisplayModel);
@@ -122,6 +120,8 @@ public class CalendarActivityFragment extends Fragment implements FlexibleCalend
 
         addNewEvent = (TextView) view.findViewById(R.id.add);
         addNewEvent.setOnClickListener(this);
+
+        onDateClick(year, month, day);
         return view;
     }
 
