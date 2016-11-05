@@ -85,19 +85,19 @@ public class CalendarActivityFragment extends Fragment implements FlexibleCalend
 
                 ArrayList<EventListModel> eventListModel = new ArrayList<>();
                 eventListModel.add(new EventListModel(year == 2016, month == 10, day == 12,
-                        "my title 0", "id0", android.R.color.holo_blue_light, "Dierra City Center", "9:00 -11:30"));
+                        "Finish my codes", "id0", android.R.color.holo_blue_light, "Dierra City Center", "9:00 -11:30"));
                 eventListModel.add(new EventListModel(year == 2016, month == 10, day == 12,
-                        "my title 1", "id1", android.R.color.holo_purple, "Dierra City Center", "9:00 -11:30"));
+                        "Hangout with LD", "id1", android.R.color.holo_purple, "Ikeja City Mall", "11:45 -17:30"));
                 eventListModel.add(new EventListModel(year == 2016, month == 10, day == 16,
-                        "my title 2", "id2", android.R.color.holo_blue_light, "Dierra City Center", "9:00 -11:30"));
+                        "Meeting with Roman Guy", "id2", android.R.color.holo_orange_light, "Opebi Mall", "12:00 -14:00"));
                 eventListModel.add(new EventListModel(year == 2016, month == 10, day == 18,
-                        "my title 3", "id3", android.R.color.holo_blue_light, "Dierra City Center", "9:00 -11:30"));
+                        "Bible study", "id3", android.R.color.holo_red_light, "Church", "18:00 -19:30"));
                 eventListModel.add(new EventListModel(year == 2016, month == 10, day == 21,
-                        "my title 4", "id4", android.R.color.holo_blue_light, "Dierra City Center", "9:00 -11:30"));
+                        "Fun catching", "id4", android.R.color.holo_blue_light, "Miracle Garden", "16:00 -19:00"));
                 eventListModel.add(new EventListModel(year == 2016, month == 10, day == 30,
-                        "my title 5", "id5", android.R.color.holo_blue_light, "Dierra City Center", "9:00 -11:30"));
+                        "Watch Captain America", "id5", android.R.color.holo_blue_light, "Ventura Mall, Ibadan", "11:45 -13:30"));
                 eventListModel.add(new EventListModel(year == 2016, month == 10, day == 4,
-                        "my title 6", "id6", android.R.color.holo_blue_light, "Dierra City Center", "9:00 -11:30"));
+                        "Rowing", "id6", android.R.color.holo_blue_light, "Ojota park", "17:00 -18:30"));
 
                 return addEventsToCalendar(eventListModel);
             }
