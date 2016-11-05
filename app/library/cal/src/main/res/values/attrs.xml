@@ -32,5 +32,6 @@
         <attr name="state_date_outside_month" format="boolean" />
         <attr name="state_date_weekend" format="boolean" />
         <attr name="state_date_selected_weekend" format="boolean" />
+        <attr name="state_date_today_weekend" format="boolean" />
     </declare-styleable>
 </resources>

@@ -166,8 +166,15 @@ class FlexibleCalendarGridAdapter extends BaseAdapter {
                     //today and selected
                     cellType = BaseCellView.SELECTED_TODAY;
                 } else {
-                    //today
-                    cellType = BaseCellView.TODAY;
+                    if (calendar.get(Calendar.DAY_OF_WEEK) == Calendar.SUNDAY ||
+                            calendar.get(Calendar.DAY_OF_WEEK) == Calendar.SATURDAY) {
+                        //today is a weekend
+                        cellType = BaseCellView.TODAY_WEEKEND;
+                    } else {
+                        //today is a weekday
+                        cellType = BaseCellView.TODAY;
+                    }
+
                 }
             }
         }
@@ -191,9 +198,6 @@ class FlexibleCalendarGridAdapter extends BaseAdapter {
             cellView.setText(String.valueOf(day));
             cellView.setOnClickListener(new DateClickListener(day, month, year));
             // add events
-            if (monthEventFetcher != null) {
-                cellView.setEvents(monthEventFetcher.getEventsForTheDay(year, month, day));
-            }
             switch (cellType) {
                 case BaseCellView.SELECTED_TODAY:
                     cellView.addState(BaseCellView.STATE_TODAY);
@@ -201,6 +205,11 @@ class FlexibleCalendarGridAdapter extends BaseAdapter {
                     break;
                 case BaseCellView.TODAY:
                     cellView.addState(BaseCellView.STATE_TODAY);
+                    break;
+                case BaseCellView.TODAY_WEEKEND:
+                    cellView.addState(BaseCellView.STATE_TODAY_WEEKEND);
+                    cellView.setTextColor(context.getResources().getColor(R.color.calendar_selected_date_green));
+                    cellView.setBackgroundResource(R.drawable.circular_background_2);
                     break;
                 case BaseCellView.SELECTED:
                     cellView.addState(BaseCellView.STATE_SELECTED);
@@ -225,6 +234,10 @@ class FlexibleCalendarGridAdapter extends BaseAdapter {
                     break;
                 default:
                     cellView.addState(BaseCellView.STATE_REGULAR);
+            }
+
+            if (monthEventFetcher != null) {
+                cellView.setEvents(monthEventFetcher.getEventsForTheDay(year, month, day));
             }
         } else {
             if (showDatesOutsideMonth) {

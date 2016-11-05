@@ -96,6 +96,8 @@ public class CalendarActivityFragment extends Fragment implements FlexibleCalend
                         "my title 4", "id4", android.R.color.holo_blue_light, "Dierra City Center", "9:00 -11:30"));
                 eventListModel.add(new EventListModel(year == 2016, month == 10, day == 30,
                         "my title 5", "id5", android.R.color.holo_blue_light, "Dierra City Center", "9:00 -11:30"));
+                eventListModel.add(new EventListModel(year == 2016, month == 10, day == 4,
+                        "my title 6", "id6", android.R.color.holo_blue_light, "Dierra City Center", "9:00 -11:30"));
 
                 return addEventsToCalendar(eventListModel);
             }

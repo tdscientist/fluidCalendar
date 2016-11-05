@@ -36,8 +36,10 @@ public abstract class BaseCellView extends TextView {
     public static final int OUTSIDE_MONTH = 5;
     public static final int WEEKEND = 6;
     public static final int SELECTED_WEEKEND = 7;
+    public static final int TODAY_WEEKEND = 8;
 
-    @IntDef({TODAY, SELECTED, REGULAR, SELECTED_TODAY, OUTSIDE_MONTH, WEEKEND, SELECTED_WEEKEND})
+    @IntDef({TODAY, SELECTED, REGULAR, SELECTED_TODAY, OUTSIDE_MONTH, WEEKEND, SELECTED_WEEKEND,
+            TODAY_WEEKEND})
     @Retention(RetentionPolicy.SOURCE)
     public @interface CellType {
     }
@@ -48,22 +50,23 @@ public abstract class BaseCellView extends TextView {
     public static final int STATE_OUTSIDE_MONTH = R.attr.state_date_outside_month;
     public static final int STATE_WEEKEND = R.attr.state_date_weekend;
     public static final int STATE_SELECTED_WEEKEND = R.attr.state_date_selected_weekend;
+    public static final int STATE_TODAY_WEEKEND = R.attr.state_date_today_weekend;
 
     private Set<Integer> stateSet;
 
     public BaseCellView(Context context) {
         super(context);
-        stateSet = new HashSet<>(3);
+        stateSet = new HashSet<>(5);
     }
 
     public BaseCellView(Context context, AttributeSet attrs) {
         super(context, attrs);
-        stateSet = new HashSet<>(3);
+        stateSet = new HashSet<>(5);
     }
 
     public BaseCellView(Context context, AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
-        stateSet = new HashSet<>(3);
+        stateSet = new HashSet<>(5);
     }
 
     public void addState(int state) {
@@ -76,7 +79,7 @@ public abstract class BaseCellView extends TextView {
 
     @Override
     protected int[] onCreateDrawableState(int extraSpace) {
-        if (stateSet == null) stateSet = new HashSet<>(3);
+        if (stateSet == null) stateSet = new HashSet<>(5);
         if (!stateSet.isEmpty()) {
             final int[] drawableState = super.onCreateDrawableState(extraSpace + stateSet.size());
             int[] states = new int[stateSet.size()];
